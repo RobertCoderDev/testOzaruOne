@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Branches</name>
+   <tag></tag>
+   <elementGuidId>27be6d62-2fd0-49a9-9428-307304fa0f69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Task Viewer'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7d44df15-7b6d-40cf-91bd-a7b9669ad1ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Branches</value>
+      <webElementGuid>99cb6124-90cc-49a3-9d20-1a9fdf69fd82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;root-container&quot;]/app-sidebar-desktop[1]/nav[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-content&quot;]/ul[@class=&quot;sidebar-links&quot;]/ul[@class=&quot;dropdown ng-star-inserted open&quot;]/li[@class=&quot;sidebar-link sublink ng-star-inserted&quot;]/a[1]/span[1]</value>
+      <webElementGuid>6e33b26b-b85c-4b19-b2b5-f0909ac0cd9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task Viewer'])[1]/following::span[1]</value>
+      <webElementGuid>71d2c00c-2642-4201-97b0-ef1b27696127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task Manager'])[1]/following::span[2]</value>
+      <webElementGuid>6a808396-52b8-46ea-b82a-ab3da1babbf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operational Roles'])[1]/preceding::span[1]</value>
+      <webElementGuid>ccffd15b-c7d6-408a-8602-6790218e1363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checklist'])[1]/preceding::span[2]</value>
+      <webElementGuid>3a0ededb-cd27-4c7a-aa35-ef780af95fa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Branches']/parent::*</value>
+      <webElementGuid>49ebe624-a38c-41c8-a83b-192d4db430c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/ul/li[2]/a/span</value>
+      <webElementGuid>587d382c-efed-4e56-8bac-ee4aadbb6754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Branches' or . = 'Branches')]</value>
+      <webElementGuid>4e396fc4-779b-4a1f-9814-2eebde7b1135</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
