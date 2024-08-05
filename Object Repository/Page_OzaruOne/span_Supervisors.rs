@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Supervisors</name>
+   <tag></tag>
+   <elementGuidId>d5a6e0bb-518c-46bc-bb93-8e068d70c11d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Checklist'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c2a3e7cf-8252-4ece-9d8f-185f3b600f4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Supervisors</value>
+      <webElementGuid>dc7ab6c7-b2e4-496c-a9a8-7805f126ff5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;root-container&quot;]/app-sidebar-desktop[1]/nav[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-content&quot;]/ul[@class=&quot;sidebar-links&quot;]/ul[@class=&quot;dropdown ng-star-inserted open&quot;]/li[@class=&quot;sidebar-link sublink ng-star-inserted&quot;]/a[1]/span[1]</value>
+      <webElementGuid>12b4be4b-961e-49d5-bfbe-46244b4c9623</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checklist'])[1]/following::span[1]</value>
+      <webElementGuid>f8cd8cc2-f1a3-48ae-8e71-8e12564808f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operational Roles'])[1]/following::span[2]</value>
+      <webElementGuid>82c4ef8f-cf77-4fa8-85ed-b3ab639a01ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operators'])[1]/preceding::span[1]</value>
+      <webElementGuid>d5436dda-acfd-4d9b-9518-84dfc9999d13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insights'])[1]/preceding::span[2]</value>
+      <webElementGuid>e09749e9-78a7-40b9-8b0a-22bcd029a68b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Supervisors']/parent::*</value>
+      <webElementGuid>41df19b3-f754-4fec-9698-cf7c518bf1ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/ul/li[5]/a/span</value>
+      <webElementGuid>b28d4c75-2e94-466e-be54-a36ea533d03e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Supervisors' or . = 'Supervisors')]</value>
+      <webElementGuid>0415014d-2e12-46bc-861b-3d390ab7ca5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

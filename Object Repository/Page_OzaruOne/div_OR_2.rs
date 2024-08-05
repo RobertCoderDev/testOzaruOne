@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OR_2</name>
+   <tag></tag>
+   <elementGuidId>8c295020-78c1-42a4-a3b4-ae89ecdf87dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Role'])[1]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>25ee9dd3-966f-4eb8-b3bf-856a2cb5b8c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>f8397d0b-373a-4f60-adb9-c5d474c9c9a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ⋮ </value>
+      <webElementGuid>6d81e11e-3e69-4e05-a059-332be22b2a50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;root-container&quot;]/div[@class=&quot;dashboard-container&quot;]/app-index-operational-roles[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;outer-table-container&quot;]/div[@class=&quot;table-container&quot;]/div[@class=&quot;table-actions-sticky&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[1]/div[@class=&quot;badge-stiky&quot;]/div[@class=&quot;menu-container&quot;]/div[@class=&quot;icon&quot;]</value>
+      <webElementGuid>8c535de7-6adb-4b78-a016-ddeedf1a85aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Role'])[1]/following::div[3]</value>
+      <webElementGuid>1a02ac8c-fe29-4d27-94bb-d3d7d4847185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Role'])[1]/following::div[4]</value>
+      <webElementGuid>03f5d067-65e2-49e9-add5-efdf43a9fa15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Role'])[2]/preceding::div[1]</value>
+      <webElementGuid>4d708af8-0157-442e-939a-8b8c2461312f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Role'])[2]/preceding::div[2]</value>
+      <webElementGuid>035f9fe5-66fa-4ac3-8899-6fb716335547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/div/div</value>
+      <webElementGuid>3cd0bb3c-5029-4448-a22a-d264ce6124cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' ⋮ ' or . = ' ⋮ ')]</value>
+      <webElementGuid>4a579c87-3f3a-4f23-894b-edeb3e2a4ae0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,5 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.acceptAlert()
+WebUI.openBrowser('https://console.ozaru.one/#/login')
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Page_OzaruOne/input_Email'), 'misa73@hotmail.com')
+
+WebUI.click(findTestObject('Page_OzaruOne/button_Send Verification Code'))
+
+WebUI.setText(findTestObject('Page_OzaruOne/input_Verification Code_user-code'), '5213524444444')
+
+WebUI.click(findTestObject('Page_OzaruOne/button_Verify'))
+
+WebUI.click(findTestObject('Page_OzaruOne/span_Task Manager'))
+
+WebUI.click(findTestObject('Page_OzaruOne/span_Operational Roles'))
+
+WebUI.click(findTestObject('Page_OzaruOne/button_New Operational Role'))
+
+WebUI.click(findTestObject('Page_OzaruOne/div_Select Branch'))
+
+WebUI.click(findTestObject('Page_OzaruOne/span_General Branch'))
+
+WebUI.setText(findTestObject('Page_OzaruOne/mat-label_Role Name'), 'testing')
+
+WebUI.setText(findTestObject('Page_OzaruOne/mat-label_Description'), 'testing')
+
+WebUI.click(findTestObject('Page_OzaruOne/button_Submit'))
+
+WebUI.delay(2)
+
+WebUI.closeBrowser()
 

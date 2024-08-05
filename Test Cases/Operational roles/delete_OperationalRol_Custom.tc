@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>delete_OperationalRol_Custom</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd7417f5-73f3-4a87-ba59-5cf7a29a24a8</testCaseGuid>
+</TestCaseEntity>

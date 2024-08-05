@@ -31,11 +31,25 @@ WebUI.click(findTestObject('Page_OzaruOne/button_Verify'))
 
 WebUI.click(findTestObject('Page_OzaruOne/span_Task Manager'))
 
-WebUI.click(findTestObject('Page_OzaruOne/span_Branches'))
+WebUI.click(findTestObject('Page_OzaruOne/span_Supervisors'))
 
-WebUI.click(findTestObject('Page_OzaruOne/tres_puntos'))
+WebUI.click(findTestObject('Page_OzaruOne/button_New User'))
 
-WebUI.click(findTestObject('Page_OzaruOne/delete_Branches'))
+WebUI.click(findTestObject('Page_OzaruOne/div_Select Branch'))
+
+WebUI.click(findTestObject('Page_OzaruOne/mat-option_test'))
+
+WebUI.setText(findTestObject('Page_OzaruOne/time_zone'), 'America/Monterrey')
+
+WebUI.setText(findTestObject('Page_OzaruOne/input_Username_username'), 'Misael')
+
+WebUI.setText(findTestObject('Page_OzaruOne/input_Email_email'), 'Misael@hola.com')
+
+WebUI.setText(findTestObject('Page_OzaruOne/input_Country Code_country_code'), '+521')
+
+WebUI.setText(findTestObject('Page_OzaruOne/input_WhatsApp_whatsapp'), '3515006338')
+
+WebUI.click(findTestObject('Page_OzaruOne/button_Submit'))
 
 WebUI.delay(2)
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>new_OperationalRol_Custom</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c4f52305-a4ee-428c-b238-59ec9e20f40f</testCaseGuid>
+</TestCaseEntity>

@@ -31,13 +31,11 @@ WebUI.click(findTestObject('Page_OzaruOne/button_Verify'))
 
 WebUI.click(findTestObject('Page_OzaruOne/span_Task Manager'))
 
-WebUI.click(findTestObject('Page_OzaruOne/span_Branches'))
+WebUI.click(findTestObject('Page_OzaruOne/span_Supervisors'))
 
-WebUI.click(findTestObject('Page_OzaruOne/tres_puntos'))
+WebUI.click(findTestObject('Page_OzaruOne/div_'))
 
-WebUI.click(findTestObject('Page_OzaruOne/delete_Branches'))
-
-WebUI.delay(2)
+WebUI.click(findTestObject('Page_OzaruOne/div_Delete User'))
 
 WebUI.closeBrowser()
 

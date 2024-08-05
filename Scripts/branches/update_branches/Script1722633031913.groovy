@@ -21,7 +21,7 @@ WebUI.openBrowser('https://console.ozaru.one/#/login')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Page_OzaruOne/input_Email_user-email'), 'misa73@hotmail.com')
+WebUI.setText(findTestObject('Page_OzaruOne/input_Email'), 'misa73@hotmail.com')
 
 WebUI.click(findTestObject('Page_OzaruOne/button_Send Verification Code'))
 

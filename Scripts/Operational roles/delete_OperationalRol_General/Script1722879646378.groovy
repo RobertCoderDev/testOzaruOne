@@ -31,11 +31,11 @@ WebUI.click(findTestObject('Page_OzaruOne/button_Verify'))
 
 WebUI.click(findTestObject('Page_OzaruOne/span_Task Manager'))
 
-WebUI.click(findTestObject('Page_OzaruOne/span_Branches'))
+WebUI.click(findTestObject('Page_OzaruOne/span_Operational Roles'))
 
-WebUI.click(findTestObject('Page_OzaruOne/tres_puntos'))
+WebUI.click(findTestObject('Page_OzaruOne/div_OR_3'))
 
-WebUI.click(findTestObject('Page_OzaruOne/delete_Branches'))
+WebUI.click(findTestObject('Page_OzaruOne/div_Delete Role_3'))
 
 WebUI.delay(2)
 

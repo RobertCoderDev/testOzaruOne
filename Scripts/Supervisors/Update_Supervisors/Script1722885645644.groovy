@@ -31,11 +31,21 @@ WebUI.click(findTestObject('Page_OzaruOne/button_Verify'))
 
 WebUI.click(findTestObject('Page_OzaruOne/span_Task Manager'))
 
-WebUI.click(findTestObject('Page_OzaruOne/span_Branches'))
+WebUI.click(findTestObject('Page_OzaruOne/span_Supervisors'))
 
-WebUI.click(findTestObject('Page_OzaruOne/tres_puntos'))
+WebUI.click(findTestObject('Page_OzaruOne/div_'))
 
-WebUI.click(findTestObject('Page_OzaruOne/delete_Branches'))
+WebUI.click(findTestObject('Page_OzaruOne/div_Edit User'))
+
+WebUI.setText(findTestObject('Page_OzaruOne/input_Username_username'), 'Jesus')
+
+WebUI.setText(findTestObject('Page_OzaruOne/input_Email_email'), 'jesus@hola.com')
+
+WebUI.setText(findTestObject('Page_OzaruOne/input_Country Code_country_code'), '+86')
+
+WebUI.setText(findTestObject('Page_OzaruOne/input_WhatsApp_whatsapp'), '0000000000')
+
+WebUI.click(findTestObject('Page_OzaruOne/button_Submit'))
 
 WebUI.delay(2)
 

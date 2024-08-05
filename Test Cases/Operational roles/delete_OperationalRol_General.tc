@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>test</name>
+   <name>delete_OperationalRol_General</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>86455b70-770d-4d2b-945f-e4141115f01d</testCaseGuid>
+   <testCaseGuid>91223533-f0fe-46d5-a2b6-d7f7fec114d6</testCaseGuid>
 </TestCaseEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Checklist Custom</name>
+   <name>New_Supervisors_General</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>609d0c56-29fe-4819-9300-e0fbd0bd030b</testCaseGuid>
+   <testCaseGuid>f54972e4-4819-400c-a60e-732d2fb1fcfe</testCaseGuid>
 </TestCaseEntity>

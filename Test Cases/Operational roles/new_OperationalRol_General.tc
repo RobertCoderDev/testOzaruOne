@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>new_OperationalRol_General</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>86a80c8c-e49f-42d3-a636-33b8371690e3</testCaseGuid>
+</TestCaseEntity>
