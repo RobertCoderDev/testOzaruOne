@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Select Branch_ng-tns-c3393473648-5</name>
+   <tag></tag>
+   <elementGuidId>e8225270-a70d-4134-9d2f-d84a674678c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Branch'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.ng-tns-c3393473648-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>f68326d7-c622-4c4c-84a7-81b0e65ecba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>9587a2ef-7565-4760-b40d-28f40f4dcacb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24px</value>
+      <webElementGuid>3af619ea-e4ae-43d8-bd65-5e2d029e7249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24px</value>
+      <webElementGuid>8625db5f-62e4-48ea-b4d3-b688633c0f44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b56afee2-f8cf-4c76-a446-beafc00a19d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d9d7ff51-bfc5-4912-856d-e3f6bda6f9b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c3393473648-5</value>
+      <webElementGuid>c512f3e7-cddd-4941-9b62-71aa284ad156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;branch_id&quot;)/div[@class=&quot;mat-mdc-select-trigger ng-tns-c3393473648-5&quot;]/div[@class=&quot;mat-mdc-select-arrow-wrapper ng-tns-c3393473648-5&quot;]/div[@class=&quot;mat-mdc-select-arrow ng-tns-c3393473648-5&quot;]/svg[@class=&quot;ng-tns-c3393473648-5&quot;]</value>
+      <webElementGuid>23b375e1-0f0d-4995-975b-361d21b1c69c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Branch'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>9f0a01ae-5af4-4b33-b7cb-682471151209</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>de09e75c-5767-489b-9a28-0d9f9b6a8fdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operational Role'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>93238752-f9b6-44c1-9379-d4dd952f582b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Operational Role'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>143d0f52-8bc8-438e-bf5c-1b38d893237f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
