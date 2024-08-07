@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-pseudo-checkbox_Description_mat-pseudo-checkbox mat-mdc-option-pseudo-checkbox mat-pseudo-checkbox-full ng-star-inserted</name>
+   <tag></tag>
+   <elementGuidId>c6c38bbc-44de-44ae-aebb-dec79b63ca6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//mat-pseudo-checkbox[contains(@aria-hidden,'true')])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-pseudo-checkbox.mat-pseudo-checkbox.mat-mdc-option-pseudo-checkbox.mat-pseudo-checkbox-full.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-pseudo-checkbox</value>
+      <webElementGuid>d97d9b6c-3030-4c5f-af6a-b3c8aace8860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d62c10b9-9d6c-44d8-a41a-afd0d634802b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-pseudo-checkbox mat-mdc-option-pseudo-checkbox mat-pseudo-checkbox-full ng-star-inserted</value>
+      <webElementGuid>ec85bbbd-2997-4c21-9b66-9e494c019a1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-19&quot;)/mat-pseudo-checkbox[@class=&quot;mat-pseudo-checkbox mat-mdc-option-pseudo-checkbox mat-pseudo-checkbox-full ng-star-inserted&quot;]</value>
+      <webElementGuid>2b4532cc-4f81-46df-8050-c9e5fb3dcc4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-19']/mat-pseudo-checkbox</value>
+      <webElementGuid>dfd07da4-7f10-42e2-a016-3ac92cab8702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-pseudo-checkbox</value>
+      <webElementGuid>fcadfd40-f6f9-4a9f-bf4d-9adfa9c3a4be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

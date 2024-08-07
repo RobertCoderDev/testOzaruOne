@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-label_Schedule Day</name>
+   <tag></tag>
+   <elementGuidId>5fd96069-26ee-4577-98d1-98b593a48623</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//mat-pseudo-checkbox[contains(@aria-hidden,'true')])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-label.ng-tns-c1205077789-29</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-label</value>
+      <webElementGuid>37cda74b-26bd-48a2-952c-3f0531122e33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c1205077789-29</value>
+      <webElementGuid>90d2294b-8f78-45a4-94f4-9907c9f0e7ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Schedule Day</value>
+      <webElementGuid>416aac53-f321-4f04-bd49-248108b45f2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-mdc-form-field-label-36&quot;)/mat-label[@class=&quot;ng-tns-c1205077789-29&quot;]</value>
+      <webElementGuid>7f1e3f90-57ba-49d3-8c8c-c466f4275d20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='mat-mdc-form-field-label-36']/mat-label</value>
+      <webElementGuid>ee167000-1579-4764-b14f-c7bc0ed5e4e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title is required.'])[1]/following::mat-label[1]</value>
+      <webElementGuid>9cc62725-596b-4198-831f-8e132c8fa732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/following::mat-label[1]</value>
+      <webElementGuid>1ad2fe71-0cc6-4a14-8243-845d066600fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule Day is required.'])[1]/preceding::mat-label[1]</value>
+      <webElementGuid>a4e613ab-4d6a-4228-a117-e276400bcedc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task Time'])[1]/preceding::mat-label[1]</value>
+      <webElementGuid>e1f10821-e184-4fe7-adb4-850c1ff49445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Schedule Day']/parent::*</value>
+      <webElementGuid>c451b88f-7eb8-45d5-b12b-ec6546d5a1c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field[2]/div/div/div/div[2]/label/mat-label</value>
+      <webElementGuid>e63bc77f-4289-453c-8bef-8722671c64f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-label[(text() = 'Schedule Day' or . = 'Schedule Day')]</value>
+      <webElementGuid>3ef651bd-402d-469f-af3f-e2ef9cd20de7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
