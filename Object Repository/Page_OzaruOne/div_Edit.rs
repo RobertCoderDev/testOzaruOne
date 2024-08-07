@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Edit</name>
+   <tag></tag>
+   <elementGuidId>7ca9f385-d227-487f-be02-8923928542c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='⋮'])[1]/following::div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ef173cb8-2107-4f06-8afa-b0aa441d393e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>41705c2f-9c06-4ea1-9231-a364cbb6c567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Edit </value>
+      <webElementGuid>cf2212f2-7577-4dd2-995e-5d0fff4b7eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;root-container&quot;]/div[@class=&quot;dashboard-container&quot;]/app-index-check-lists[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;outer-table-container&quot;]/div[@class=&quot;table-container&quot;]/div[@class=&quot;table-actions-sticky&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[1]/div[@class=&quot;badge-stiky&quot;]/div[@class=&quot;menu-container&quot;]/div[@class=&quot;dropdown-menu show&quot;]/div[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>292c551c-47fb-4846-af86-d9cd6ea7da00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='⋮'])[1]/following::div[2]</value>
+      <webElementGuid>5eb9816b-9452-4415-a3ad-929aab2426cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weekly'])[1]/following::div[7]</value>
+      <webElementGuid>00873c67-0e26-402b-83e0-11380df9b1a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::div[1]</value>
+      <webElementGuid>64af2940-96bd-426d-ad74-a8dad9f9d0a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload tasks'])[1]/preceding::div[2]</value>
+      <webElementGuid>ac9a28ef-d706-4728-b5b5-5fc0127e3b76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit']/parent::*</value>
+      <webElementGuid>58219e2f-e13c-4288-b27e-82176e044c62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>b91878ba-2a57-4d0e-a15d-124743fb6a31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Edit ' or . = ' Edit ')]</value>
+      <webElementGuid>bcc793db-0894-4ae9-aca2-1c9da1071e29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

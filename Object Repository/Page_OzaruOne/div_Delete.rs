@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Delete</name>
+   <tag></tag>
+   <elementGuidId>bcb4c473-ca5b-4c33-8cad-0a0522eb30be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cef45b78-5837-471a-9d6c-01e1236f60e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>abfd38f3-6636-444f-9c9b-b7065dfa2666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Delete </value>
+      <webElementGuid>996e95cb-fd0c-4767-9b32-87c73b4360a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;root-container&quot;]/div[@class=&quot;dashboard-container&quot;]/app-index-check-lists[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;outer-table-container&quot;]/div[@class=&quot;table-container&quot;]/div[@class=&quot;table-actions-sticky&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[1]/div[@class=&quot;badge-stiky&quot;]/div[@class=&quot;menu-container&quot;]/div[@class=&quot;dropdown-menu show&quot;]/div[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>816a0c4e-6018-4585-a387-cb87ca4ab8b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::div[1]</value>
+      <webElementGuid>5d65814d-499c-430e-b1be-6b14d15b90ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='⋮'])[1]/following::div[3]</value>
+      <webElementGuid>7c412da7-56dc-4978-b662-994097d87d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload tasks'])[1]/preceding::div[1]</value>
+      <webElementGuid>73fca4d4-e71b-477b-a176-ffd2e85496ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
+      <webElementGuid>b3ad8018-8220-4d0d-b355-7a0696c71ba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>b8c0ac24-244b-48f9-9a7b-193a267e840f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Delete ' or . = ' Delete ')]</value>
+      <webElementGuid>4d0a04d8-62aa-4f45-ab61-4311c9d0387c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
