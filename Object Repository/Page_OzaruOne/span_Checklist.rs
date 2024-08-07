@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Checklist</name>
+   <tag></tag>
+   <elementGuidId>25db422f-ea89-4c46-8f93-610fe49944f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Operational Roles'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.sidebar-link.sublink.ng-star-inserted.active > a > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ac7dddab-5d11-4577-a806-c3d2bfebbf5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Checklist</value>
+      <webElementGuid>7f59c37c-6c6b-40e1-98d6-2257b0fb4e1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;root-container&quot;]/app-sidebar-desktop[1]/nav[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-content&quot;]/ul[@class=&quot;sidebar-links&quot;]/ul[@class=&quot;dropdown ng-star-inserted open&quot;]/li[@class=&quot;sidebar-link sublink ng-star-inserted active&quot;]/a[1]/span[1]</value>
+      <webElementGuid>c74a3d4d-20c9-407c-b790-10db4981668e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operational Roles'])[1]/following::span[1]</value>
+      <webElementGuid>877befdf-929e-4000-bf76-475826f08d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branches'])[1]/following::span[2]</value>
+      <webElementGuid>f193b53e-4807-457b-9a52-ae6928316366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supervisors'])[1]/preceding::span[1]</value>
+      <webElementGuid>3a13acaa-1bac-4717-95ed-f2bea02200b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operators'])[1]/preceding::span[2]</value>
+      <webElementGuid>c2503e6b-202d-4c60-a38b-3b510a9834bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Checklist']/parent::*</value>
+      <webElementGuid>128301ef-1712-4c16-8561-7bb2ca3d737d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/ul/li[4]/a/span</value>
+      <webElementGuid>29966458-5e71-4b97-94eb-ea255e954bf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Checklist' or . = 'Checklist')]</value>
+      <webElementGuid>e38299de-44a9-433f-889c-5aefa54c0d99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
