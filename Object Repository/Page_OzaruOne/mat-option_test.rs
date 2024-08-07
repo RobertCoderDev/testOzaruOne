@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-230']</value>
+         <value>//span[@class='mdc-list-item__primary-text'][contains(.,'test')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-option</value>
-      <webElementGuid>1df76323-bbd0-4d0f-8df7-ae64fa290cd7</webElementGuid>
+      <webElementGuid>3a4e146c-2654-4d98-9056-1a5bc35d2709</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>4b9ab671-3eb3-4e9b-8f70-75c49f342008</webElementGuid>
+      <webElementGuid>fd8a69cd-d0d2-47a9-9566-95d1ffd8ca74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-mdc-option mdc-list-item ng-tns-c3393473648-5 ng-star-inserted</value>
-      <webElementGuid>5d3c91d1-a52d-4632-af1b-3b93b2e52796</webElementGuid>
+      <webElementGuid>ad9f2cf1-e92c-47f9-b856-7bfa148396df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mat-option-230</value>
-      <webElementGuid>8586f6c8-be2e-41d0-ab6c-8785e0921131</webElementGuid>
+      <webElementGuid>1f8de9e6-3253-4f49-8d8d-6720e7dfdc29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>da123602-4667-4c53-a947-5d8f7383b1ec</webElementGuid>
+      <webElementGuid>9c03205c-9d43-482b-b95d-a8f8b21c71a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c50f4510-650c-49d1-8458-86eee132a079</webElementGuid>
+      <webElementGuid>ac71bb8b-8954-4d5d-a0e9-375474881538</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>text</name>
       <type>Main</type>
       <value> test </value>
-      <webElementGuid>50e28038-461c-47b3-b3bf-1afc6bd333da</webElementGuid>
+      <webElementGuid>23454641-34d7-4dd4-bfd9-c1ad5d59b070</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-option-230&quot;)</value>
-      <webElementGuid>53135392-8cf1-4e37-b333-f038f267c071</webElementGuid>
+      <webElementGuid>cab34dec-b2e4-4b54-9664-65b2596c985a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//mat-option[@id='mat-option-230']</value>
-      <webElementGuid>45e66676-0b33-474e-b99e-073e6292e9cb</webElementGuid>
+      <webElementGuid>ce510702-1656-46ae-a4f0-0916c3cc286d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='branch_id-panel']/mat-option[3]</value>
-      <webElementGuid>2089f6e1-886e-43af-a410-7f5b30315188</webElementGuid>
+      <webElementGuid>aa0b85d7-8045-4f7b-9c2c-f97b5b71635b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='General Branch'])[1]/following::mat-option[1]</value>
-      <webElementGuid>5ebfd5a3-e3f5-4ea4-817f-634b14d9ead2</webElementGuid>
+      <webElementGuid>c985e0bd-86f2-4fc0-a321-9cd55f4fa0f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Branch'])[2]/following::mat-option[2]</value>
-      <webElementGuid>8ecf967e-e500-4c1a-be46-fdef585cfa58</webElementGuid>
+      <webElementGuid>252f70a9-f9fe-4e7a-bf27-f4b437ad447c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-option[3]</value>
-      <webElementGuid>91df54aa-26d3-4b53-85c9-47734bb0a389</webElementGuid>
+      <webElementGuid>b0764fff-ecd7-49bd-bfce-a9c0335c265a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//mat-option[@id = 'mat-option-230' and (text() = ' test ' or . = ' test ')]</value>
-      <webElementGuid>51562891-06ce-427a-b964-74ac9d147f11</webElementGuid>
+      <webElementGuid>727c5eeb-fc4d-43ff-a8e7-ab170ad0deaa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -33,29 +33,9 @@ WebUI.click(findTestObject('Page_OzaruOne/span_Task Manager'))
 
 WebUI.click(findTestObject('Page_OzaruOne/span_Operators'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Page_OzaruOne/button_New User Operator'))
+WebUI.click(findTestObject('Page_OzaruOne/div_trespuntos'))
 
-WebUI.click(findTestObject('Page_OzaruOne/svg_Select Branch_ng-tns-c3393473648-5'))
-
-WebUI.click(findTestObject('Page_OzaruOne/mat-option_test OP'))
-
-WebUI.click(findTestObject('Page_OzaruOne/div_Select Operational Rol'))
-
-WebUI.click(findTestObject('Page_OzaruOne/span_prueba'))
-
-WebUI.setText(findTestObject('Page_OzaruOne/mat-label_Time Zone'), 'America/Monterrey')
-
-WebUI.setText(findTestObject('Page_OzaruOne/input_Username_username'), 'Misael')
-
-WebUI.setText(findTestObject('Page_OzaruOne/input_Email_email'), 'Misa@hola.com')
-
-WebUI.setText(findTestObject('Page_OzaruOne/input_Country Code_country_code'), '+521')
-
-WebUI.setText(findTestObject('Page_OzaruOne/input_WhatsApp_whatsapp'), '3510000000')
-
-WebUI.click(findTestObject('Page_OzaruOne/button_Submit'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.delay(2)
+WebUI.click(findTestObject('Page_OzaruOne/div_Delete User'))
 
 WebUI.closeBrowser()
 
