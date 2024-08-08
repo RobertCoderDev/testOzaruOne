@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>mat-label_Schedule Day</name>
+   <name>a_Delete</name>
    <tag></tag>
-   <elementGuidId>5fd96069-26ee-4577-98d1-98b593a48623</elementGuidId>
+   <elementGuidId>aff0f00d-3d5b-4ea2-8609-92bb75e3a5d4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//mat-label[contains(.,'Schedule Day')]</value>
+         <value>//a[contains(text(),'Delete')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>mat-label.ng-tns-c1205077789-29</value>
+         <value>a.btn.btn-secondary.ng-star-inserted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,95 +22,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>mat-label</value>
-      <webElementGuid>6f45d2e6-b2c9-4127-bce1-a930c1e19d52</webElementGuid>
+      <value>a</value>
+      <webElementGuid>394d72db-74dd-44c1-9b1a-189a1379cdb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ng-tns-c1205077789-29</value>
-      <webElementGuid>11aa9e18-6d95-4514-af40-a3c4758d0a91</webElementGuid>
+      <value>btn btn-secondary ng-star-inserted</value>
+      <webElementGuid>4ce816f8-578c-4b28-a70c-41251d3d7201</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Schedule Day</value>
-      <webElementGuid>6bd58407-3ce3-4bf8-b1da-a0036c940d8b</webElementGuid>
+      <value> Delete </value>
+      <webElementGuid>533477e1-31f0-44fb-8be5-3a0b3f8592c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-mdc-form-field-label-36&quot;)/mat-label[@class=&quot;ng-tns-c1205077789-29&quot;]</value>
-      <webElementGuid>e2932bbf-5824-4ae8-b29f-5080623dbba7</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;root-container&quot;]/div[@class=&quot;dashboard-container&quot;]/app-index-tasks[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;outer-table-container&quot;]/div[@class=&quot;search-header ng-star-inserted&quot;]/div[@class=&quot;table-filter-container&quot;]/a[@class=&quot;btn btn-secondary ng-star-inserted&quot;]</value>
+      <webElementGuid>9cd4f103-8b7e-4d6d-affc-7ec1c6b254f6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:link</name>
       <type>Main</type>
-      <value>//label[@id='mat-mdc-form-field-label-36']/mat-label</value>
-      <webElementGuid>9de48d7c-4929-4761-9f8b-df5c1e74ca8c</webElementGuid>
+      <value>//a[contains(text(),'Delete')]</value>
+      <webElementGuid>5b3d4e36-2dec-4fe0-89e2-2c9923e6c24c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title is required.'])[1]/following::mat-label[1]</value>
-      <webElementGuid>897579d7-acd1-4ee2-bfb3-9622ec82b609</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Massive Task Upload'])[1]/following::a[1]</value>
+      <webElementGuid>8cd85e62-3a9c-4f8c-9913-8d77032f4bb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/following::mat-label[1]</value>
-      <webElementGuid>83d3b687-f50d-4dff-a460-9418705821ae</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Task'])[1]/following::a[1]</value>
+      <webElementGuid>121ec175-9598-422e-8b03-1e896248dde0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule Day is required.'])[1]/preceding::mat-label[1]</value>
-      <webElementGuid>ea4e87c7-287e-4674-a880-20d1bdcb288f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Filters'])[1]/preceding::a[1]</value>
+      <webElementGuid>a08f85ee-4234-4c82-b7e7-da137bec5360</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task Time'])[1]/preceding::mat-label[1]</value>
-      <webElementGuid>3321e072-d232-476a-88ca-f7f21a1f0d52</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter by day:'])[1]/preceding::a[1]</value>
+      <webElementGuid>6dcbb06e-ae8d-414c-a93e-2f4769b69510</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Schedule Day']/parent::*</value>
-      <webElementGuid>47107ab9-56f0-4411-9716-7bf047874b59</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
+      <webElementGuid>7a62d6ce-44a1-4c93-b5a0-318ae28c0512</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-form-field[2]/div/div/div/div[2]/label/mat-label</value>
-      <webElementGuid>0fee75ae-5168-4e9e-9b82-39d4e4bc8c1a</webElementGuid>
+      <value>//div[2]/a</value>
+      <webElementGuid>57c3ee9b-5827-406d-973f-27e11bd8597f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//mat-label[(text() = 'Schedule Day' or . = 'Schedule Day')]</value>
-      <webElementGuid>7a52b016-c2e0-4935-bad7-c2f451ca5d71</webElementGuid>
+      <value>//a[(text() = ' Delete ' or . = ' Delete ')]</value>
+      <webElementGuid>385fbd68-e329-4e47-8903-cb97e688f061</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

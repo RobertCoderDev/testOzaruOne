@@ -35,19 +35,23 @@ WebUI.click(findTestObject('Page_OzaruOne/span_Checklist'))
 
 WebUI.click(findTestObject('Page_OzaruOne/h6_Testeo_1'))
 
-WebUI.click(findTestObject('Page_OzaruOne/button_Add Task'))
+WebUI.click(findTestObject('Page_OzaruOne/tres_puntos_Cl'))
 
-WebUI.setText(findTestObject('Page_OzaruOne/tittle'), 'testeo')
+WebUI.click(findTestObject('Page_OzaruOne/div_edit_Cl'))
+
+WebUI.setText(findTestObject('Page_OzaruOne/tittle'), 'testeo_misa')
 
 WebUI.click(findTestObject('Page_OzaruOne/mat-label_Schedule Day'))
 
-WebUI.click(findTestObject('Page_OzaruOne/mat-pseudo-checkbox_Description_mat'))
+WebUI.click(findTestObject('Page_OzaruOne/Day_Selector'))
 
-WebUI.click(findTestObject('Page_OzaruOne/Close'))
+WebUI.setText(findTestObject('Page_OzaruOne/input_Task Time_taskTime'), '11:00am')
 
-WebUI.setText(findTestObject('Page_OzaruOne/input_Task Time_taskTime'), '08:00am')
+WebUI.click(findTestObject('Page_OzaruOne/span_Not Apply'))
 
-WebUI.setText(findTestObject('Page_OzaruOne/textarea_Description_description'), 'testeo_!')
+WebUI.click(findTestObject('Page_OzaruOne/mat-option_Image'))
+
+WebUI.setText(findTestObject('Page_OzaruOne/textarea_Description_description'), 'testeo_misa')
 
 WebUI.click(findTestObject('Page_OzaruOne/button_Submit'))
 

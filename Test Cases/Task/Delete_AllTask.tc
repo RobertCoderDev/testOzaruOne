@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete_AllTask</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b4f36fd5-f7cb-4b30-9b97-2b47bd4b33fb</testCaseGuid>
+</TestCaseEntity>
