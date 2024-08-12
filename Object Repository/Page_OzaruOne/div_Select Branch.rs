@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mat-select-value-1']</value>
+         <value>(//div[contains(.,'Select Branch')])[10]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9d0e8525-3b21-4c25-853c-6b893fc5350b</webElementGuid>
+      <webElementGuid>91e2574b-284c-4a0d-a8fc-d2a5fdf45aec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-mdc-select-value ng-tns-c3393473648-5</value>
-      <webElementGuid>f23bad29-7dce-4b4f-85a3-34a57099b045</webElementGuid>
+      <webElementGuid>bd160cfa-6c72-49e1-bfe9-c51042421845</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mat-select-value-1</value>
-      <webElementGuid>53a92269-57a8-45ea-b73f-4bd9f6b55b5a</webElementGuid>
+      <webElementGuid>770a81dd-61c8-493f-9e19-fccfda1860d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select Branch</value>
-      <webElementGuid>3eca2f63-6199-4f0c-bf42-fc47ac1bb5fd</webElementGuid>
+      <webElementGuid>1d77f191-79cd-42a9-b81a-47e9f77f508c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-select-value-1&quot;)</value>
-      <webElementGuid>e8802025-9529-4502-912d-870cbffc1b54</webElementGuid>
+      <webElementGuid>e96ae22e-01cd-4a2e-b01e-26aa2243249b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='mat-select-value-1']</value>
-      <webElementGuid>eccd939c-6e83-41aa-b86c-c66d207fb624</webElementGuid>
+      <webElementGuid>45104631-c64a-4e1d-b4a6-383cb448ab13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-select[@id='branch_id']/div/div</value>
-      <webElementGuid>3ed8d6b0-4d4f-4354-bd77-44b9641b7a6a</webElementGuid>
+      <webElementGuid>d120c398-a347-4343-a626-93dbf57a1930</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[2]/following::div[4]</value>
-      <webElementGuid>16fae8ce-1c05-49ad-af47-f161653035a6</webElementGuid>
+      <webElementGuid>15aaed94-f943-48ce-aea9-a152d40c1c4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/following::div[10]</value>
-      <webElementGuid>16dd05b4-e109-404f-aa0c-a49ae3b2bb00</webElementGuid>
+      <webElementGuid>a39cfc04-0862-4085-8008-c2859bc18cb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch is required.'])[1]/preceding::div[3]</value>
-      <webElementGuid>c6ff05e6-d036-4823-8c0c-8310382925d1</webElementGuid>
+      <webElementGuid>69d48991-f133-481a-8ebb-0607961dc35e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-select/div/div</value>
-      <webElementGuid>90b4c8e6-0012-41dd-b1b3-42b9a5b80748</webElementGuid>
+      <webElementGuid>9f6ca790-830d-4792-8990-69fd46993135</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'mat-select-value-1' and (text() = 'Select Branch' or . = 'Select Branch')]</value>
-      <webElementGuid>e0a325f8-883a-4f87-8d63-5bca4917821d</webElementGuid>
+      <webElementGuid>1d13da20-4566-45ba-af0e-2e1d9dea0820</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

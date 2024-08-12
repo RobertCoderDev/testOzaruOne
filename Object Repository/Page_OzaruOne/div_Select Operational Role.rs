@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mat-select-value-5']</value>
+         <value>//span[contains(.,'Select Operational Role')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>01a03d7b-4976-423d-8052-5a92f209946c</webElementGuid>
+      <webElementGuid>43a999e7-0051-415b-91c6-ed23579e2f65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-mdc-select-value ng-tns-c3393473648-11</value>
-      <webElementGuid>601bc88b-8c5a-4da3-acc7-0ef5d7f03a9e</webElementGuid>
+      <webElementGuid>4bb898db-bfdb-4dea-a520-d01e9a2ab600</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mat-select-value-5</value>
-      <webElementGuid>d42fee05-0db1-4c86-b6dc-e63c5b1245b5</webElementGuid>
+      <webElementGuid>2154f033-2e3e-4160-98f5-c87562252f55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select Operational Role</value>
-      <webElementGuid>6fc9c5a9-49ad-4f99-b8ea-3df94a9b103f</webElementGuid>
+      <webElementGuid>45068a56-4894-4c16-8174-29589b31cc04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-select-value-5&quot;)</value>
-      <webElementGuid>361f6a17-322b-4362-9bf0-9391d41dc9b3</webElementGuid>
+      <webElementGuid>f83fd534-b013-4dc0-8909-19ef064e6924</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='mat-select-value-5']</value>
-      <webElementGuid>ce2c14eb-a2ce-4823-b9bf-39484a81ba86</webElementGuid>
+      <webElementGuid>c1d59566-c556-4262-86b2-127cab40e5a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-select[@id='operational_role_id']/div/div</value>
-      <webElementGuid>2d84821b-43c7-4b5c-8788-68918751f819</webElementGuid>
+      <webElementGuid>bf3b89a2-ad13-4761-a689-f5ebf2bb5560</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Operational Role'])[1]/following::div[4]</value>
-      <webElementGuid>8d7f539b-5cfb-494d-8905-5a63ef541937</webElementGuid>
+      <webElementGuid>8b050def-2a4b-432e-9167-a7cc6c029bb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch is required.'])[1]/following::div[10]</value>
-      <webElementGuid>ab3e508a-d6e3-44a7-82a5-4987b154b877</webElementGuid>
+      <webElementGuid>6557d1c9-b3f8-4904-a8c4-9cfb3dc33b18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/mat-form-field[2]/div/div/div[2]/mat-select/div/div</value>
-      <webElementGuid>048e4954-d3d5-4dc2-a136-6f996d6295e2</webElementGuid>
+      <webElementGuid>f7bd6659-ca7a-4fa4-8164-c2c4bc5e14be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'mat-select-value-5' and (text() = 'Select Operational Role' or . = 'Select Operational Role')]</value>
-      <webElementGuid>f7e428c8-80d4-4767-bda0-93918df21656</webElementGuid>
+      <webElementGuid>abd1af89-f55d-4ce8-8ed2-56ae4ad811ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

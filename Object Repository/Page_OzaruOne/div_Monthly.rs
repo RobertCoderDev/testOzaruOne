@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mat-select-value-1']</value>
+         <value>(//div[contains(.,'Monthly')])[10]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7ecb3bef-dee1-49f4-9bf1-28d691e3cfc8</webElementGuid>
+      <webElementGuid>988cb17e-6b7b-4769-bea6-fffccc0c3fa7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-mdc-select-value ng-tns-c3393473648-6</value>
-      <webElementGuid>4e4d154b-b52a-4cde-862d-809ff1c630db</webElementGuid>
+      <webElementGuid>763cc68f-e6c8-4503-b445-70c9962a0a16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mat-select-value-1</value>
-      <webElementGuid>6312e881-be17-4698-a97f-b250f673d504</webElementGuid>
+      <webElementGuid>ce80f130-41ba-4c8a-a6ee-12bfe89bae5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Monthly</value>
-      <webElementGuid>7da76f60-ffd9-459d-b950-744576b8da63</webElementGuid>
+      <webElementGuid>36bf4056-1d19-4d13-8f89-1ba8b73b0f1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-select-value-1&quot;)</value>
-      <webElementGuid>ac303d5b-27bb-4e0a-95af-7e57406226d1</webElementGuid>
+      <webElementGuid>9b0a344e-70e7-4bcd-8301-c064fa1fa963</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='mat-select-value-1']</value>
-      <webElementGuid>79d00314-d669-496d-828d-d11482772b06</webElementGuid>
+      <webElementGuid>3377bcef-a443-4540-aa26-79b6b6fcdf95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-select[@id='frequency']/div/div</value>
-      <webElementGuid>d58923fd-ebeb-4add-b14f-7baa95fc8308</webElementGuid>
+      <webElementGuid>16c8d626-bf96-4988-8ced-4baf97ab047f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Frequency'])[1]/following::div[4]</value>
-      <webElementGuid>7758965a-7bcf-4b06-a996-222e8fdc9532</webElementGuid>
+      <webElementGuid>1b1de738-9111-418f-8b8c-c54b3c219002</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CheckList Name is required.'])[1]/following::div[10]</value>
-      <webElementGuid>5c8f1d01-1d1d-463a-b3bc-3d0d23dddd7d</webElementGuid>
+      <webElementGuid>9d776bf3-b569-4fb2-9594-73448c3f1ddc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::div[8]</value>
-      <webElementGuid>33a74207-6e5e-43f0-8700-25648b2450fd</webElementGuid>
+      <webElementGuid>f4e91987-425c-48bb-841e-a1c0e3d97d0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-select/div/div</value>
-      <webElementGuid>20e40b49-fdeb-4ea5-bbd9-b0b5520fc299</webElementGuid>
+      <webElementGuid>3be6573c-c198-49e3-80bc-54433f8a1155</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'mat-select-value-1' and (text() = 'Monthly' or . = 'Monthly')]</value>
-      <webElementGuid>137b503e-9669-4805-be73-8d888c50f88f</webElementGuid>
+      <webElementGuid>88eeb355-d975-4174-abb5-fdfe28bfb373</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

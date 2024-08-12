@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-2']/span</value>
+         <value>//span[@class='mdc-list-item__primary-text'][contains(.,'General Branch')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>569291f7-9ee1-4e2c-ab50-907e890eedca</webElementGuid>
+      <webElementGuid>c76f0526-57e1-4bb3-9922-993621219dc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mdc-list-item__primary-text</value>
-      <webElementGuid>881711ad-4b1d-4c9f-af77-3a4b0256c9fa</webElementGuid>
+      <webElementGuid>9cd4a478-1086-4b63-9217-fcb4e917b568</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>General Branch</value>
-      <webElementGuid>1274d591-a300-4f86-ab56-3b3a4de7a39d</webElementGuid>
+      <webElementGuid>fd6bb2d0-d955-4c04-b67a-e4cbe932eb82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-option-2&quot;)/span[@class=&quot;mdc-list-item__primary-text&quot;]</value>
-      <webElementGuid>a41038e8-bd11-4594-acc2-abf52177fbdc</webElementGuid>
+      <webElementGuid>9d545c70-e3d5-49ec-adee-893b3cea7a53</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-option[@id='mat-option-2']/span</value>
-      <webElementGuid>f444dfc3-9c1e-473a-a4af-e769b2b05789</webElementGuid>
+      <webElementGuid>14dd3c0c-be96-4879-8905-6369dcd0c504</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Branch'])[2]/following::span[1]</value>
-      <webElementGuid>af30db7b-91a8-497b-9110-6d322de33745</webElementGuid>
+      <webElementGuid>c30d17f6-b34c-4630-99ac-3d72644a7ddd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::span[2]</value>
-      <webElementGuid>e5af62e1-fa82-40a8-a6c9-79d50fdbe186</webElementGuid>
+      <webElementGuid>31a74fcf-4c4b-4fc9-a404-b616f8eda853</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::span[1]</value>
-      <webElementGuid>9ef6410d-5b83-4aeb-bd80-334ef55cc4b2</webElementGuid>
+      <webElementGuid>72d1451c-e90e-4893-9b92-cd5a72866b8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='General Branch']/parent::*</value>
-      <webElementGuid>f8c55e18-a72c-4c7a-beae-848d03f633c7</webElementGuid>
+      <webElementGuid>da055020-3a61-4c43-a214-2c0c8914f2c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-option[2]/span</value>
-      <webElementGuid>20bb242d-2dc0-4525-b945-9bf489417263</webElementGuid>
+      <webElementGuid>4818697a-7d3f-4d45-a0bf-41fd1ec8d975</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'General Branch' or . = 'General Branch')]</value>
-      <webElementGuid>60d11ff0-75e5-47b2-972b-45bd577fc5a0</webElementGuid>
+      <webElementGuid>04dc61c2-0ccc-430c-908c-6b3a2e6dfe49</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

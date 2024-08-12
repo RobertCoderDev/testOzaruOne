@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='mat-mdc-checkbox-1-input']</value>
+         <value>(//input[contains(@type,'checkbox')])[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5c512a83-6665-44d7-b154-f47321e2872a</webElementGuid>
+      <webElementGuid>d0521fef-3624-4ecd-b7ed-74b672268b54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>672a3367-3d9e-49e5-aaa1-336b103bf658</webElementGuid>
+      <webElementGuid>c99a8f9e-ebae-45c6-8af0-b0638869e842</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mdc-checkbox__native-control</value>
-      <webElementGuid>c585795b-fe4f-4d6d-be46-aa3fa86c5be5</webElementGuid>
+      <webElementGuid>a0e69f4b-301a-4792-b521-06eb1ad97be6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mat-mdc-checkbox-1-input</value>
-      <webElementGuid>b41c938d-3708-4ea8-a145-95d83573faa9</webElementGuid>
+      <webElementGuid>3434ec2b-8d99-4533-b97f-b148ab3337f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>af4f1539-c214-45c7-b4d6-98d8d7d0e27f</webElementGuid>
+      <webElementGuid>72ec34ac-3f6c-4272-8fb5-73a8109c3b59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-mdc-checkbox-1-input&quot;)</value>
-      <webElementGuid>27b3dc37-8d42-4d51-8811-c54723da9aff</webElementGuid>
+      <webElementGuid>03c60542-aded-4c07-90ac-3a0458538c23</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='mat-mdc-checkbox-1-input']</value>
-      <webElementGuid>5c0305c0-1f9f-41e7-b677-8bab0ea739c9</webElementGuid>
+      <webElementGuid>011bc83c-0d56-417f-94d5-76a041e58b2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-checkbox[@id='mat-mdc-checkbox-1']/div/div/input</value>
-      <webElementGuid>fcbdf05f-932c-4df7-bfb6-5f0eedcde049</webElementGuid>
+      <webElementGuid>f89fa8dc-1ba9-45e9-9363-35a0293955e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-checkbox/div/div/input</value>
-      <webElementGuid>bcd7e7ef-89f1-4ac1-915f-92b149ea26f8</webElementGuid>
+      <webElementGuid>03ec05b1-d214-4e11-920f-a968c3750ac3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @id = 'mat-mdc-checkbox-1-input']</value>
-      <webElementGuid>9047b47b-e4c4-4331-b3bf-10e84b7a9a31</webElementGuid>
+      <webElementGuid>dc522add-6930-411c-8b86-c1ac18c8f385</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

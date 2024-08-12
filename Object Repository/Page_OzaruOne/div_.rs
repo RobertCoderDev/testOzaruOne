@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Supervisor'])[1]/following::div[4]</value>
+         <value>(//div[contains(.,'⋮')])[8]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3dfe23a7-91ff-4ed2-b18f-63f336015b50</webElementGuid>
+      <webElementGuid>40645940-990d-42f3-8488-d694ea3b4edd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icon</value>
-      <webElementGuid>6fef0d0e-c0b9-4f88-a665-16a960caa1a4</webElementGuid>
+      <webElementGuid>1b811e4a-dc6b-4b29-813a-a4e796e2ac9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>⋮</value>
-      <webElementGuid>553af9a8-6ae5-474e-b6d3-bf0bd6dfda57</webElementGuid>
+      <webElementGuid>08a88afd-a4d4-42ed-a2df-368e3296668c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-pages[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;root-container&quot;]/div[@class=&quot;dashboard-container&quot;]/app-index-users[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;outer-table-container&quot;]/div[@class=&quot;table-container&quot;]/div[@class=&quot;table-actions-sticky&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[1]/div[@class=&quot;badge-stiky&quot;]/div[@class=&quot;menu-container&quot;]/div[@class=&quot;icon&quot;]</value>
-      <webElementGuid>922641ff-7363-4a45-9410-bb0e6fe643f3</webElementGuid>
+      <webElementGuid>f3ac8615-83e0-49f1-93cc-75eb30d6ece5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Supervisor'])[1]/following::div[4]</value>
-      <webElementGuid>286c7081-b230-4bdb-8147-1d13a4692877</webElementGuid>
+      <webElementGuid>eead398f-b1e2-44c1-b016-b063b514dc33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='General Branch'])[1]/following::div[5]</value>
-      <webElementGuid>ac4438e6-e78d-407c-a40e-659443ad7a8a</webElementGuid>
+      <webElementGuid>1ad44260-8b3e-4995-a9a6-17f494e6a5ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit User'])[1]/preceding::div[1]</value>
-      <webElementGuid>f2f84d44-653a-4d79-93c8-ef1a1e329a1a</webElementGuid>
+      <webElementGuid>ed2a6e25-1429-407a-aa65-b97a8a645747</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete User'])[1]/preceding::div[2]</value>
-      <webElementGuid>9a1b5676-b178-4d9b-90ea-d0c2f7767e02</webElementGuid>
+      <webElementGuid>9c3eb209-98f3-4dea-a703-85c262c7042c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='⋮']/parent::*</value>
-      <webElementGuid>c0944e38-4eb0-4e84-b566-653dbfb51d76</webElementGuid>
+      <webElementGuid>85f2af55-69f9-44a2-ae56-d44b814460cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/div/div/div</value>
-      <webElementGuid>b326919a-85fb-4825-853c-cc68f18e4e71</webElementGuid>
+      <webElementGuid>07873128-6554-4499-8906-ecd15d7c6bb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '⋮' or . = '⋮')]</value>
-      <webElementGuid>92619950-5955-44a4-a0ab-e1e1bd860254</webElementGuid>
+      <webElementGuid>25c68b5f-debd-43a6-a320-149e2ef2aea5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

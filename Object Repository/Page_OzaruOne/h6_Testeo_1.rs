@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/following::h6[1]</value>
+         <value>//h6[contains(.,'Testeo_1')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h6</value>
-      <webElementGuid>190429dd-f706-4028-85d9-4693a0d84253</webElementGuid>
+      <webElementGuid>4133a3a9-c417-490a-b337-5119d93d18bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Testeo_1 </value>
-      <webElementGuid>af3ffb6b-9bd1-4a8f-92a0-c84c849f243f</webElementGuid>
+      <webElementGuid>93e1833b-f478-40f1-beaf-c1997c026815</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-pages[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;root-container&quot;]/div[@class=&quot;dashboard-container&quot;]/app-index-check-lists[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;outer-table-container&quot;]/div[@class=&quot;table-container&quot;]/div[@class=&quot;table-sub-container&quot;]/table[@class=&quot;table table-striped&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[1]/div[@class=&quot;main-badge&quot;]/div[1]/h6[1]</value>
-      <webElementGuid>7ad30d79-03cb-4875-a821-8f8bc92876e3</webElementGuid>
+      <webElementGuid>47977d4f-c128-40cb-9bee-060f34ee5b80</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/following::h6[1]</value>
-      <webElementGuid>34c4982c-5503-4bdc-b5c4-3837a02019de</webElementGuid>
+      <webElementGuid>84447ee5-b343-4f6e-98e9-3bbf85045fff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Frequency'])[1]/following::h6[1]</value>
-      <webElementGuid>89d1fb63-8f56-47c1-bcc4-a955fbd3de79</webElementGuid>
+      <webElementGuid>5097da21-12ed-422f-9053-2dbea4401ab0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Weekly'])[1]/preceding::h6[1]</value>
-      <webElementGuid>66634103-d5e9-45a6-825e-8eb49ff1af5c</webElementGuid>
+      <webElementGuid>0e9cf4cc-85f9-43b7-88be-dfbed5936c25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='⋮'])[1]/preceding::h6[1]</value>
-      <webElementGuid>871fe327-b622-4cf1-b149-a689b9f8f4ea</webElementGuid>
+      <webElementGuid>5ab75364-be51-4ddb-a173-9352dc302b39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Testeo_1']/parent::*</value>
-      <webElementGuid>775524ba-9f3d-4b26-b4bd-3f278344b5ed</webElementGuid>
+      <webElementGuid>e2b4598b-598f-4bdb-af0f-ba8c58b98c3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/div/div/h6</value>
-      <webElementGuid>f6dfe680-8e10-4085-8d0b-0ae4b79a2b4c</webElementGuid>
+      <webElementGuid>cec85554-88c2-47ad-9fe5-9b3c1022a40c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h6[(text() = ' Testeo_1 ' or . = ' Testeo_1 ')]</value>
-      <webElementGuid>96be69e8-c470-4491-8374-4e25b2c18956</webElementGuid>
+      <webElementGuid>12007823-5e44-45b8-8d7d-98244d6b4661</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

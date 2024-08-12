@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-3']/span</value>
+         <value>(//span[@class='mdc-list-item__primary-text'][contains(.,'test')])[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ba522fad-063d-473c-8c78-3b133bae1cc8</webElementGuid>
+      <webElementGuid>799f10b6-d743-4093-baee-df0f197f8a9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mdc-list-item__primary-text</value>
-      <webElementGuid>fe54247a-e99c-463e-a206-3f4d877bba41</webElementGuid>
+      <webElementGuid>0a5b94a5-3b25-4dab-b1e9-a8e71a3fa673</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value> test </value>
-      <webElementGuid>0987e31a-c429-4564-a65b-d0ce75f20fa7</webElementGuid>
+      <webElementGuid>b763c1e0-2abf-47c2-86f4-3b7fee22bfc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-option-3&quot;)/span[@class=&quot;mdc-list-item__primary-text&quot;]</value>
-      <webElementGuid>0d64085f-c4e5-4ad5-8cf9-719aa3a8316a</webElementGuid>
+      <webElementGuid>a2c8a3d9-9142-4712-805e-8248e854c1b1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//mat-option[@id='mat-option-3']/span</value>
-      <webElementGuid>8bf5d9a0-0f46-4717-9d41-f5ffde70e7c0</webElementGuid>
+      <webElementGuid>e71a277b-e346-487e-b20b-ca5175f4a43c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='General Branch'])[1]/following::span[1]</value>
-      <webElementGuid>141be748-412a-4569-9d8c-cf85f76605f0</webElementGuid>
+      <webElementGuid>3a945c26-907b-469b-9edc-0e222da40706</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Branch'])[2]/following::span[2]</value>
-      <webElementGuid>993db30c-43c1-4efe-bd8b-5d9fa5684aa1</webElementGuid>
+      <webElementGuid>8baca6a6-0ae7-42ab-be28-9fb8a8b3bbac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='test']/parent::*</value>
-      <webElementGuid>d7543c89-dd93-4434-8afc-fe392bd583bd</webElementGuid>
+      <webElementGuid>9b62fa31-194c-43be-b920-c72597bfb6a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-option[3]/span</value>
-      <webElementGuid>eb138c8d-5866-458b-a009-0778fa253981</webElementGuid>
+      <webElementGuid>efcbde64-fc6f-49d6-835d-02bcf6b0735b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' test ' or . = ' test ')]</value>
-      <webElementGuid>55e3b546-a113-47fa-9877-3038ea75769a</webElementGuid>
+      <webElementGuid>765b8711-d6ea-4969-b02d-f1ff9ad4bbe6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

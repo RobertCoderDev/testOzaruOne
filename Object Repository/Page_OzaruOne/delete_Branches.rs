@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//div[@class='dropdown-item'][contains(.,'Delete Branch')])[2]</value>
+         <value>(//div[@class='dropdown-item'][contains(.,'Delete Branch')])[1]</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
