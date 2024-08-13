@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_testting</name>
+   <name>div_Click here or drag file to upload</name>
    <tag></tag>
-   <elementGuidId>b8fdbc76-1d27-4f09-95e1-481a9108193a</elementGuidId>
+   <elementGuidId>02e71820-462a-4d91-b813-8b1d9249013c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[contains(.,'Hola')]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Name *'])[1]/following::div[6]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.mdc-list-item__primary-text</value>
+         <value>div.dropzone.ng-star-inserted</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,71 +22,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>bf4b8e9a-ff23-42d1-b384-4dbf43735c3f</webElementGuid>
+      <value>div</value>
+      <webElementGuid>41f6035d-1935-43de-9bb7-e70384f51aab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mdc-list-item__primary-text</value>
-      <webElementGuid>160e6c58-3a3a-4429-8f07-66b4e7f7645d</webElementGuid>
+      <value>dropzone ng-star-inserted</value>
+      <webElementGuid>5e62337d-f30e-4ba1-bcc0-626d57d61194</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> testting </value>
-      <webElementGuid>3132f081-a79e-4dc8-a297-2cec8926277d</webElementGuid>
+      <value>Click here or drag file to upload</value>
+      <webElementGuid>0f48bf3a-d1a3-4a47-a915-4d2609d072b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-5&quot;)/span[@class=&quot;mdc-list-item__primary-text&quot;]</value>
-      <webElementGuid>d992d99c-bb63-4d4e-8724-d53f461120a8</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;root-container&quot;]/div[@class=&quot;dashboard-container&quot;]/app-import-doc[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-overlay ng-star-inserted&quot;]/div[@class=&quot;upload-dialog&quot;]/div[@class=&quot;dropzone ng-star-inserted&quot;]</value>
+      <webElementGuid>f6b728af-3946-4dbb-8965-fd9061372cae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//mat-option[@id='mat-option-5']/span</value>
-      <webElementGuid>ea858644-050d-47e6-96f0-c822f560da13</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name *'])[1]/following::div[6]</value>
+      <webElementGuid>4bacf90b-6f8a-4546-a7db-f6f953423e3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::span[1]</value>
-      <webElementGuid>7f7d6bb1-bda3-4f19-8f87-b1a7817df0c7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload file'])[1]/following::div[12]</value>
+      <webElementGuid>8c48ce1b-9992-4a32-9a52-8697b72890ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='testting']/parent::*</value>
-      <webElementGuid>13150c40-2701-44ed-9081-2422d4c89cde</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload'])[1]/preceding::div[3]</value>
+      <webElementGuid>14e30e9c-0bcc-4e97-a23b-b393f49f2dfa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-option/span</value>
-      <webElementGuid>b80ae2a3-1698-4232-b05a-a635e14673dc</webElementGuid>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>1891fc48-bf76-4b03-bc9f-ec3ed6cf1405</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' testting ' or . = ' testting ')]</value>
-      <webElementGuid>f9f73c1d-71e5-4b7a-a585-30043d1105db</webElementGuid>
+      <value>//div[(text() = 'Click here or drag file to upload' or . = 'Click here or drag file to upload')]</value>
+      <webElementGuid>28133530-ffb7-4a00-b4b1-e9e355c040de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

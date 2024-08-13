@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_testting</name>
+   <name>button_Upload</name>
    <tag></tag>
-   <elementGuidId>b8fdbc76-1d27-4f09-95e1-481a9108193a</elementGuidId>
+   <elementGuidId>1951f0a5-7e32-4957-84a1-9ee568deba12</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[contains(.,'Hola')]</value>
+         <value>(//button[contains(.,'Upload')])[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.mdc-list-item__primary-text</value>
+         <value>button.accept-button.disabled-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,71 +22,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>bf4b8e9a-ff23-42d1-b384-4dbf43735c3f</webElementGuid>
+      <value>button</value>
+      <webElementGuid>4440dca4-2a45-46dc-a5fc-26343008f0b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mdc-list-item__primary-text</value>
-      <webElementGuid>160e6c58-3a3a-4429-8f07-66b4e7f7645d</webElementGuid>
+      <value>accept-button disabled-button</value>
+      <webElementGuid>2c3df98b-31a5-40aa-a55b-9ab8af26bdad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> testting </value>
-      <webElementGuid>3132f081-a79e-4dc8-a297-2cec8926277d</webElementGuid>
+      <value>Upload</value>
+      <webElementGuid>3a1f92e7-e12c-4c4b-b42e-a036b4b58531</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-5&quot;)/span[@class=&quot;mdc-list-item__primary-text&quot;]</value>
-      <webElementGuid>d992d99c-bb63-4d4e-8724-d53f461120a8</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/app-pages[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;root-container&quot;]/div[@class=&quot;dashboard-container&quot;]/app-import-doc[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal-overlay ng-star-inserted&quot;]/div[@class=&quot;upload-dialog&quot;]/div[@class=&quot;button-container&quot;]/button[@class=&quot;accept-button disabled-button&quot;]</value>
+      <webElementGuid>aab99e8f-f63e-4422-bd9b-179350854b4a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//mat-option[@id='mat-option-5']/span</value>
-      <webElementGuid>ea858644-050d-47e6-96f0-c822f560da13</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name *'])[1]/following::button[1]</value>
+      <webElementGuid>e3e0f34a-c730-4df2-895f-03d4ed9d1187</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::span[1]</value>
-      <webElementGuid>7f7d6bb1-bda3-4f19-8f87-b1a7817df0c7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload file'])[1]/following::button[1]</value>
+      <webElementGuid>2a92157b-fcb3-42b0-83d8-613804e53448</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='testting']/parent::*</value>
-      <webElementGuid>13150c40-2701-44ed-9081-2422d4c89cde</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Upload']/parent::*</value>
+      <webElementGuid>01fbc151-c7f5-41c0-bc06-7783161dbe4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-option/span</value>
-      <webElementGuid>b80ae2a3-1698-4232-b05a-a635e14673dc</webElementGuid>
+      <value>//div[5]/button</value>
+      <webElementGuid>eb8097d1-1195-483b-8345-c7031c1b7ace</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' testting ' or . = ' testting ')]</value>
-      <webElementGuid>f9f73c1d-71e5-4b7a-a585-30043d1105db</webElementGuid>
+      <value>//button[(text() = 'Upload' or . = 'Upload')]</value>
+      <webElementGuid>3e0e472e-3597-4ef8-8e48-e245c9e35d76</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
