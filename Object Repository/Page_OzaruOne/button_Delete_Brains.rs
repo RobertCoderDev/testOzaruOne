@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>ChatbotButton</name>
+   <name>button_Delete_Brains</name>
    <tag></tag>
-   <elementGuidId>aacf46d0-499e-46e6-a490-3e93828272fe</elementGuidId>
+   <elementGuidId>f30e7e69-5556-47e4-9405-cfbd15daef0b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@class='dashboard-container']</value>
-      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[contains(.,'deleteDelete')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -17,31 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://console.ozaru.one/#/login')
+WebUI.openBrowser('https://ozaru.myscriptcase.com/scriptcase9/app/OzaruOne/menu_admin/')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Page_OzaruOne/input_Email'), 'misa73@hotmail.com')
+WebUI.click(findTestObject('teste_2/span_empresas'))
 
-WebUI.click(findTestObject('Page_OzaruOne/button_Send Verification Code'))
+WebUI.delay(3)
 
-WebUI.setText(findTestObject('Page_OzaruOne/input_Verification Code_user-code'), '5213524444444')
+WebUI.click(findTestObject('teste_2/a_Nueva empresa'))
 
-WebUI.click(findTestObject('Page_OzaruOne/button_Verify'))
+WebUI.delay(3)
 
-WebUI.click(findTestObject('Page_OzaruOne/span_Knowled'))
+WebUI.switchToFrame(findTestObject('teste_2/iframe_OzaruNewCompany'), 10)
 
-WebUI.click(findTestObject('Page_OzaruOne/mat-icon_Supervisors_mat-icon notranslate icon material-icons mat-ligature-font mat-icon-no-color'))
+WebUI.setText(findTestObject('teste_2/input_name'), 'Test')
 
-WebUI.click(findTestObject('Page_OzaruOne/button_Upload file cloud_upload'))
+WebUI.setText(findTestObject('teste_2/input_industry'), 'test')
 
-WebUI.setText(findTestObject('Page_OzaruOne/textarea_Name_mat-input-2'), 'test')
+WebUI.switchToDefaultContent()
 
-WebUI.uploadFile(findTestObject('Page_OzaruOne/FileUploadInput'), 'C:\\\\Users\\\\arzat\\\\OneDrive\\\\Escritorio\\\\Brains\\\\direcciongeneral.pdf')
+WebUI.delay(0)
 
-WebUI.click(findTestObject('Page_OzaruOne/button_Upload'))
-
-WebUI.click(findTestObject('Page_OzaruOne/div_brains'))
-
-WebUI.click(findTestObject('Page_OzaruOne/button_Delete_Brains'))
+WebUI.closeBrowser()
 

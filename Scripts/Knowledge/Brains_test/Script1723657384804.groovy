@@ -33,15 +33,38 @@ WebUI.click(findTestObject('Page_OzaruOne/span_Knowled'))
 
 WebUI.click(findTestObject('Page_OzaruOne/mat-icon_Supervisors_mat-icon notranslate icon material-icons mat-ligature-font mat-icon-no-color'))
 
-WebUI.click(findTestObject('Page_OzaruOne/button_Upload file cloud_upload'))
+WebUI.delay(3)
 
-WebUI.setText(findTestObject('Page_OzaruOne/textarea_Name_mat-input-2'), 'test')
+// Ejecutar JavaScript para hacer clic en el botón dentro del Shadow DOM y agregar texto al textarea
+WebUI.executeJavaScript(
+	'''
+    // Obtener el host del shadow DOM
+    let shadowHost = document.querySelector('flowise-chatbot');
 
-WebUI.uploadFile(findTestObject('Page_OzaruOne/FileUploadInput'), 'C:\\\\Users\\\\arzat\\\\OneDrive\\\\Escritorio\\\\Brains\\\\direcciongeneral.pdf')
+    // Obtener el shadow root
+    let shadowRoot = shadowHost.shadowRoot;
 
-WebUI.click(findTestObject('Page_OzaruOne/button_Upload'))
+    // Seleccionar el primer botón dentro del shadow root y hacer clic
+    let button = shadowRoot.querySelector('button.fixed.shadow-md.rounded-full');
+    if (button) {
+        button.click();
+    }
 
-WebUI.click(findTestObject('Page_OzaruOne/div_brains'))
+    // Seleccionar el textarea y agregar el texto "Test"
+    let textArea = shadowRoot.querySelector('textarea');
+    if (textArea) {
+        textArea.value = 'Test ';
+    }
 
-WebUI.click(findTestObject('Page_OzaruOne/button_Delete_Brains'))
+    // Seleccionar el nuevo botón dentro del shadow root
+    let sendButton = shadowRoot.querySelector('button.chatbot-button');
+    if (sendButton) {
+        sendButton.click();
+    }
+    ''', 
+	null
+)
+
+
+
 

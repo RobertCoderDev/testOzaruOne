@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>ChatbotButton</name>
+   <name>input_industry</name>
    <tag></tag>
-   <elementGuidId>aacf46d0-499e-46e6-a490-3e93828272fe</elementGuidId>
+   <elementGuidId>a9bb8193-6f5b-4c49-8e01-180aa6fd657a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@class='dashboard-container']</value>
-      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[contains(@id,'id_sc_field_industry')]&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,11 @@
    <elementGuidId>722cd766-23a3-4266-adb2-0b2153e9345a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//mat-card[3]/div/div/mat-icon</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(//mat-icon[contains(@role,'img')])[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>mat-icon</value>
-      <webElementGuid>5e877df2-7a65-4d0b-9dac-6f18ffa8c7d8</webElementGuid>
+      <webElementGuid>183362ea-e08b-4bbb-ba56-03436faf8357</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>28ea702c-254d-4015-b7ef-152213fb749e</webElementGuid>
+      <webElementGuid>440d0504-dfb9-4fbe-b508-0bb69ae131d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>fonticon</name>
       <type>Main</type>
       <value>more_vert</value>
-      <webElementGuid>e87977ce-34f9-438a-8474-0ebdf7341000</webElementGuid>
+      <webElementGuid>dd6807be-3f51-49f0-a7f3-cd18d897fd89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-icon notranslate icon material-icons mat-ligature-font mat-icon-no-color</value>
-      <webElementGuid>d575d7ae-dc31-4572-8415-85c5a43c9b9b</webElementGuid>
+      <webElementGuid>562b5c49-e1d4-4073-a4f8-a8624dfa5bac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>a6e01894-7d2a-489a-b362-da99201e9449</webElementGuid>
+      <webElementGuid>a2d6aba4-1dee-46d9-a16a-4d378fb16cd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>data-mat-icon-type</name>
       <type>Main</type>
       <value>font</value>
-      <webElementGuid>6025b978-8919-4554-8390-7e912c4309fa</webElementGuid>
+      <webElementGuid>a2ed6acb-4551-4d4e-9332-920b9fa78eab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>data-mat-icon-name</name>
       <type>Main</type>
       <value>more_vert</value>
-      <webElementGuid>17727379-282f-4ab1-9122-9007ff8fc9f1</webElementGuid>
+      <webElementGuid>cec55d53-9514-49f8-8527-0807d6756efe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-pages[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;root-container&quot;]/div[@class=&quot;dashboard-container&quot;]/app-knowledge-manager[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;dashboard&quot;]/div[@class=&quot;cards-container&quot;]/div[@class=&quot;card-sub-container&quot;]/div[@class=&quot;card-standard&quot;]/div[@class=&quot;cards&quot;]/mat-card[@class=&quot;mat-mdc-card mdc-card card-standard card-brain card-grid ng-star-inserted&quot;]/div[@class=&quot;card-brain-header&quot;]/div[@class=&quot;menu-container more&quot;]/mat-icon[@class=&quot;mat-icon notranslate icon material-icons mat-ligature-font mat-icon-no-color&quot;]</value>
-      <webElementGuid>0db78fba-0339-4244-beb3-a558f117d6ba</webElementGuid>
+      <webElementGuid>1ec46b3c-cf61-4817-aa38-8bb71f48eb2d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,6 +86,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//mat-card[3]/div/div/mat-icon</value>
-      <webElementGuid>95b3a44b-e1bf-4bc9-81b3-ebad73a2cf48</webElementGuid>
+      <webElementGuid>dd4d3d19-a9f0-4b94-a59f-b48507327565</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>ChatbotButton</name>
+   <name>div_brains</name>
    <tag></tag>
-   <elementGuidId>aacf46d0-499e-46e6-a490-3e93828272fe</elementGuidId>
+   <elementGuidId>e7ccec98-d7c2-4863-8fb1-cc07537d013f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@class='dashboard-container']</value>
-      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class='mat-mdc-button-touch-target'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
