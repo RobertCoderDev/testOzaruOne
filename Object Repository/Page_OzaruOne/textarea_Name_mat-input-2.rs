@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//textarea[@id='mat-input-2']</value>
+         <value>//textarea[contains(@class,'input cdk-text-field-autofill-monitored')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>5996e8fb-349e-4996-bc06-ef092ccb6320</webElementGuid>
+      <webElementGuid>5d3e3174-e993-4a82-ace6-dbe31a71113c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>250</value>
-      <webElementGuid>163d6aa2-3605-49d2-9ec4-94643da670ff</webElementGuid>
+      <webElementGuid>a8542413-4a45-4926-bc54-e626c720fa85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-mdc-input-element ng-tns-c1205077789-4 ng-untouched ng-pristine ng-valid mat-mdc-form-field-textarea-control mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored</value>
-      <webElementGuid>c46ce842-f3b4-4743-b726-5ce7620daa57</webElementGuid>
+      <webElementGuid>692a7ed3-23d7-4fe7-955c-7a8ed724e25e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mat-input-2</value>
-      <webElementGuid>779d8195-3ca9-4bc2-90e3-5ad97c0764e0</webElementGuid>
+      <webElementGuid>5e5d0563-9987-43cd-ad44-daa65b606969</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8bf55d49-9c4f-4708-87e8-50ef318e1516</webElementGuid>
+      <webElementGuid>60006f1d-997a-47e0-b488-4ff41d49d3aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7aadb66c-b3ad-4f7a-8562-6a6d61f9bd0d</webElementGuid>
+      <webElementGuid>5782d77f-e464-4d31-b371-88134327cde0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mat-input-2&quot;)</value>
-      <webElementGuid>c67863b4-8651-4d62-b28c-3dc7838abe34</webElementGuid>
+      <webElementGuid>98013ac7-38f7-43c1-ba87-567d790390e3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='mat-input-2']</value>
-      <webElementGuid>146cfbf7-22cd-4821-b882-5abae41e1916</webElementGuid>
+      <webElementGuid>e3cd3a56-6f94-4c64-9c01-f82182ed2b63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>b5b98dca-f9a2-4334-9247-a5a0726300b8</webElementGuid>
+      <webElementGuid>01e667d2-603b-4d7a-9b2c-31a3b1a09483</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@id = 'mat-input-2']</value>
-      <webElementGuid>ba0e9843-d827-4a61-a622-c3178f06b4a8</webElementGuid>
+      <webElementGuid>1e20f204-e5c1-4b17-8444-4e9fa5f27de7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

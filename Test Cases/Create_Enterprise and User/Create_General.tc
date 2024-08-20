@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Create</name>
+   <name>Create_General</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>820ff47d-196f-4880-b6c7-a860c10dc242</testCaseGuid>
+   <testCaseGuid>e5c03165-b6f4-4e35-a3c7-9eeccff942c2</testCaseGuid>
 </TestCaseEntity>

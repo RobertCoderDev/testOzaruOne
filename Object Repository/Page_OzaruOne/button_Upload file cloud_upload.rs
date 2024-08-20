@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Test'])[1]/following::button[1]</value>
+         <value>//button[contains(@class,'upload-button')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d80a1392-6b77-401d-89d4-3c777875e59c</webElementGuid>
+      <webElementGuid>22ac543d-0a95-424e-ace9-4e91417c2e23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>upload-button</value>
-      <webElementGuid>286c7943-9d67-4217-a7ec-a90b2424d998</webElementGuid>
+      <webElementGuid>74327dde-5f5e-42b0-a512-33e084e8bb48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Upload file cloud_upload</value>
-      <webElementGuid>36e0ec15-4100-43ce-8cb4-780fefed3594</webElementGuid>
+      <webElementGuid>5661912a-6f96-4780-a672-9fa159062b7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/app-pages[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;root-container&quot;]/div[@class=&quot;dashboard-container&quot;]/app-import-doc[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dashboard&quot;]/div[@class=&quot;dashboard-header&quot;]/div[@class=&quot;upload-button-container&quot;]/button[@class=&quot;upload-button&quot;]</value>
-      <webElementGuid>e87b2fa6-3119-499a-b67a-179df6ce2d0d</webElementGuid>
+      <webElementGuid>cc1ed8a8-5126-4518-9c07-d603be0143c1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Test'])[1]/following::button[1]</value>
-      <webElementGuid>923e13bd-b710-48e6-8255-7803316d9ffa</webElementGuid>
+      <webElementGuid>478f8cc2-5bd6-4a12-8c97-ca194b70a8ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::button[1]</value>
-      <webElementGuid>e42e1706-152b-4a78-a5bf-72e6dbb8da8e</webElementGuid>
+      <webElementGuid>3347287e-6020-41ef-b2de-94e4793dfa83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[1]/preceding::button[1]</value>
-      <webElementGuid>fffdf7d8-3fe6-435a-94eb-81e93a79d659</webElementGuid>
+      <webElementGuid>05379795-251e-42c5-ac59-522774d8b4af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Added knowledge'])[1]/preceding::button[1]</value>
-      <webElementGuid>009396cd-6157-4d5f-b650-d4eac182952a</webElementGuid>
+      <webElementGuid>03fa76fc-1e4a-4cef-86df-67453f58a875</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Upload file']/parent::*</value>
-      <webElementGuid>4cea3b30-7245-480f-8af2-7f41d1c327ce</webElementGuid>
+      <webElementGuid>a94fef5e-a46d-4009-8595-a15f07317fde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>c7559c6b-20b5-41cb-abfe-e7960409435a</webElementGuid>
+      <webElementGuid>453852e8-d14d-4d04-8367-3d6fbc3392af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = ' Upload file cloud_upload' or . = ' Upload file cloud_upload')]</value>
-      <webElementGuid>98395a51-c3f2-40b8-9786-3c9ef1147ba6</webElementGuid>
+      <webElementGuid>57b7b8be-8426-4db6-9e49-c8f5e12ba012</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -21,23 +21,59 @@ WebUI.openBrowser('https://ozaru.myscriptcase.com/scriptcase9/app/OzaruOne/menu_
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('teste_2/span_empresas'))
+WebUI.click(findTestObject('Create_Enterprise/span_empresas'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('teste_2/a_Nueva empresa'))
+WebUI.click(findTestObject('Create_Enterprise/a_Nueva empresa'))
 
 WebUI.delay(3)
 
-WebUI.switchToFrame(findTestObject('teste_2/iframe_OzaruNewCompany'), 10)
+WebUI.switchToFrame(findTestObject('Create_Enterprise/iframe_OzaruNewCompany'), 10)
 
-WebUI.setText(findTestObject('teste_2/input_name'), 'Test')
+WebUI.setText(findTestObject('Create_Enterprise/input_name'), 'Test')
 
-WebUI.setText(findTestObject('teste_2/input_industry'), 'test')
+WebUI.setText(findTestObject('Create_Enterprise/input_industry'), 'test')
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Create_Enterprise/Zona_horaria'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Create_Enterprise/Select_zona_horaria'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Create_Enterprise/Button_Ok'))
 
 WebUI.switchToDefaultContent()
 
-WebUI.delay(0)
+WebUI.click(findTestObject('Create_User/span_Usuarios'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Create_User/a_Nuevo Director'))
+
+WebUI.delay(3)
+
+WebUI.switchToFrame(findTestObject('Create_User/iframe_OzaruNewUser'), 10)
+
+WebUI.setText(findTestObject('Create_User/input_name'), 'Test')
+
+WebUI.setText(findTestObject('Create_User/input_correo'), 'test@gmail.com')
+
+WebUI.setText(findTestObject('Create_User/input_whatsapp'), '3515006338')
+
+WebUI.click(findTestObject('Create_User/ComboBox'))
+
+WebUI.click(findTestObject('Create_User/input_asignarEmpresa'))
+
+WebUI.click(findTestObject('Create_User/Button_CrearDirector'))
+
+WebUI.delay(3)
+
+WebUI.switchToDefaultContent()
 
 WebUI.closeBrowser()
 
