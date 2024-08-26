@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_New User Operator</name>
+   <name>text_area_mesagge</name>
    <tag></tag>
-   <elementGuidId>60756cf8-caba-468c-b0f3-3c20d799fbde</elementGuidId>
+   <elementGuidId>69d921be-3f4f-4b75-8453-e6b648c36ed2</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[contains(.,'New User')]</value>
-      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[contains(@aria-invalid,'false')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

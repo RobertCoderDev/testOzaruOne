@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Send_message_textimage_CU</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>487e5d85-7212-442a-9b99-53e208ebdf1e</testCaseGuid>
+</TestCaseEntity>

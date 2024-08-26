@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_New User Operator</name>
+   <name>Button_sendMessage</name>
    <tag></tag>
-   <elementGuidId>60756cf8-caba-468c-b0f3-3c20d799fbde</elementGuidId>
+   <elementGuidId>fc785b02-8fea-41a5-a7ae-a3da28ec493c</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[contains(.,'New User')]</value>
-      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[contains(.,'Send message')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

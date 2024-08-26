@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_New User Operator</name>
+   <name>mat-label-OperationalRoles</name>
    <tag></tag>
-   <elementGuidId>60756cf8-caba-468c-b0f3-3c20d799fbde</elementGuidId>
+   <elementGuidId>05798f32-d835-4080-9a07-04a472f17a0d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[contains(.,'New User')]</value>
-      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//mat-label[contains(.,'Options')])[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

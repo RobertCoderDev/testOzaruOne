@@ -51,11 +51,13 @@ WebUI.scrollToElement(findTestObject('Page_OzaruOne/add_branche'), 0)
 
 WebUI.click(findTestObject('Page_OzaruOne/add_branche'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(1)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Page_OzaruOne/tres_puntos'))
 
 WebUI.click(findTestObject('Page_OzaruOne/edit_bramche'))
+
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('Page_OzaruOne/name_edit'), 'test_2')
 
@@ -71,7 +73,7 @@ WebUI.click(findTestObject('Page_OzaruOne/button_New Operational Role'))
 
 WebUI.click(findTestObject('Page_OzaruOne/div_Select Branch'))
 
-WebUI.click(findTestObject('Page_OzaruOne/span_test2'))
+WebUI.click(findTestObject('Page_OzaruOne/span_test'))
 
 WebUI.setText(findTestObject('Page_OzaruOne/mat-label_Role Name'), 'testing')
 

@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_New User Operator</name>
+   <name>Span_test2</name>
    <tag></tag>
-   <elementGuidId>60756cf8-caba-468c-b0f3-3c20d799fbde</elementGuidId>
+   <elementGuidId>0215ceb6-138a-44ac-a377-1dfb9d32c5e1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[contains(.,'New User')]</value>
+         <value>//span[@class='mdc-list-item__primary-text'][contains(.,'Test2')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,11 @@
    <elementGuidId>6040cbd5-a247-4c2b-b383-9e5ec900bfb1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(//span[@class='mdc-list-item__primary-text'][contains(.,'test')])[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//mat-option[contains(.,'test_2')]</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

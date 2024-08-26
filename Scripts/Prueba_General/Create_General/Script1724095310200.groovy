@@ -35,17 +35,13 @@ WebUI.setText(findTestObject('Create_Enterprise/input_name'), 'Test')
 
 WebUI.setText(findTestObject('Create_Enterprise/input_industry'), 'test')
 
-WebUI.delay(3)
-
 WebUI.click(findTestObject('Create_Enterprise/Zona_horaria'))
-
-WebUI.delay(3)
 
 WebUI.click(findTestObject('Create_Enterprise/Select_zona_horaria'))
 
-WebUI.delay(3)
-
 WebUI.click(findTestObject('Create_Enterprise/Button_Ok'))
+
+WebUI.click(findTestObject('Create_Enterprise/Button_okey'))
 
 WebUI.switchToDefaultContent()
 
@@ -63,7 +59,7 @@ WebUI.setText(findTestObject('Create_User/input_name'), 'Test')
 
 WebUI.setText(findTestObject('Create_User/input_correo'), 'test@gmail.com')
 
-WebUI.setText(findTestObject('Create_User/input_whatsapp'), '3515006338')
+WebUI.setText(findTestObject('Create_User/input_whatsapp'), '3525006338')
 
 WebUI.click(findTestObject('Create_User/ComboBox'))
 
