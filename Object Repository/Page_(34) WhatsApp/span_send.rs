@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_send</name>
+   <tag></tag>
+   <elementGuidId>d922cf5c-a88b-4cde-bd26-e856a79d56ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.x1c4vz4f.x2lah0s.xdl72j9.xfect85.x1iy03kw.x1lfpgzf > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/footer/div/div/span[2]/div/div[2]/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>05a6a5ba-51c4-4584-a23b-56b50b788120</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>send</value>
+      <webElementGuid>36181493-27c8-4868-a7dd-4bf27b980ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>send</value>
+      <webElementGuid>b8b43082-7f81-4aa4-8f78-d8d24d27d77e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/footer[@class=&quot;_ak1i&quot;]/div[@class=&quot;_ak1k xnpuxes copyable-area&quot;]/div[@class=&quot;_ak1p&quot;]/span[2]/div[@class=&quot;_ak1q&quot;]/div[@class=&quot;_ak1r&quot;]/div[@class=&quot;_ak1t _ak1u&quot;]/button[@class=&quot;x1c4vz4f x2lah0s xdl72j9 xfect85 x1iy03kw x1lfpgzf&quot;]/span[1]</value>
+      <webElementGuid>b9534342-7406-47e4-8772-a3f5bec67d3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/footer/div/div/span[2]/div/div[2]/div[2]/button/span</value>
+      <webElementGuid>14e1834e-eae9-41bc-9379-da2ca3b0d0d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='que tengo que hacer?'])[1]/following::span[1]</value>
+      <webElementGuid>376f9e42-e59c-4516-8656-3e32938c456f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¡Hola!'])[9]/following::span[16]</value>
+      <webElementGuid>11ef31d0-461d-4c0f-aa04-0b5c443f13c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>fea2d8d6-cfe0-4a20-8cd7-64b5f67e8eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'send' or . = 'send')]</value>
+      <webElementGuid>0d888725-9f1b-48e7-98e0-763f2fd1542b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
