@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Page_OzaruOne/span_Checklist'))
 
 WebUI.click(findTestObject('Page_OzaruOne/div_trespuntos'))
 
-WebUI.click(findTestObject('Page_OzaruOne/div_Delete'))
+WebUI.click(findTestObject('Page_OzaruOne/Div_Delete_Checklist'))
 
 WebUI.click(findTestObject('Page_OzaruOne/button_Delete'))
 

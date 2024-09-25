@@ -17,45 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://console.ozaru.one/#/login')
+WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
+// Navega a la URL deseada
+WebUI.navigateToUrl('https://web.whatsapp.com/')
 
-WebUI.setText(findTestObject('Page_OzaruOne/input_Email'), 'test@gmail.com')
+// Espera para asegurar que la página se cargue
+WebUI.delay(20)
 
-WebUI.click(findTestObject('Page_OzaruOne/button_Send Verification Code'))
+// Realiza clic en el contacto
+WebUI.click(findTestObject('Page_(34) WhatsApp/div_Ozaru One'))
 
-WebUI.setText(findTestObject('Page_OzaruOne/input_Verification Code_user-code'), '5213515006338')
+def filePath = 'C:\\Users\\arzat\\OneDrive\\Escritorio\\Brains\\test.jpg'
 
-WebUI.click(findTestObject('Page_OzaruOne/button_Verify'))
+// Reemplaza 'yourXPathHere' con el XPath correcto del input file
+TestObject inputFile = new TestObject('inputFile')
 
-WebUI.click(findTestObject('Messages/Span_messages'))
+inputFile.addProperty('xpath', ConditionType.EQUALS, '//input[@type=\'file\' and @accept=\'image/*\' and @style=\'display: none;\']')
 
-WebUI.click(findTestObject('Messages/Span_sendMessages'))
+// Utiliza uploadFile para subir el archivo
+WebUI.uploadFile(inputFile, filePath)
 
-WebUI.click(findTestObject('Messages/span_Options_mat-mdc-select-placeholder mat-mdc-select-min-line'))
+WebUI.delay(5 // Asegúrate de dar tiempo para que se cargue la imagen
+    )
 
-WebUI.click(findTestObject('Messages/span_Branch'))
+WebUI.closeBrowser()
 
-WebUI.click(findTestObject('Messages/Span_Branches'))
-
-WebUI.click(findTestObject('Messages/Span_test2'))
-
-WebUI.click(findTestObject('Messages/mat-label-OperationalRoles'))
-
-WebUI.click(findTestObject('Messages/Span_testing'))
-
-WebUI.click(findTestObject('Messages/mat-label-employees'))
-
-WebUI.click(findTestObject('Messages/mat-option-everyone'))
-
-WebUI.click(findTestObject('Messages/mat-label-massage-type'))
-
-WebUI.click(findTestObject('Messages/span_text'))
-
-WebUI.click(findTestObject('Messages/imput_message'))
-
-WebUI.setText(findTestObject('Messages/text_area_mesagge'), 'Hola')
-
-WebUI.click(findTestObject('Messages/Button_sendMessage'))
+WebUI.acceptAlert()
 

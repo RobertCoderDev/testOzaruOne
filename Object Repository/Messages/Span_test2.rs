@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[@class='mdc-list-item__primary-text'][contains(.,'Test2')]</value>
+         <value>//mat-option[@role='option'][contains(.,'Test_2')]</value>
       </entry>
       <entry>
          <key>BASIC</key>

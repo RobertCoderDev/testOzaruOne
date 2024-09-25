@@ -41,7 +41,3 @@ WebUI.uploadFile(findTestObject('Page_OzaruOne/FileUploadInput'), 'C:\\\\Users\\
 
 WebUI.click(findTestObject('Page_OzaruOne/button_Upload'))
 
-WebUI.click(findTestObject('Page_OzaruOne/div_brains'))
-
-WebUI.click(findTestObject('Page_OzaruOne/button_Delete_Brains'))
-

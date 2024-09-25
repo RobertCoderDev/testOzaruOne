@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//div[contains(.,'Edit')])[9]</value>
+         <value>(//div[@class='dropdown-item'][contains(.,'Edit')])[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

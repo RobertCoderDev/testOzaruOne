@@ -6,12 +6,15 @@
    <elementGuidId>af71324c-924c-4630-aa08-18598e023b55</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div._ak72._ak73._ak7p > div._ak8l > div._ak8o > div._ak8q</value>
+         <key>XPATH</key>
+         <value>//span[@dir=&quot;auto&quot; and @title=&quot;+52 1 352 243 4490&quot; and contains(text(), &quot;+52 1 352 243 4490&quot;)]&#xd;
+&#xd;
+&#xd;
+</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='pane-side']/div[2]/div/div/div/div/div/div/div[2]/div/div</value>
+         <key>CSS</key>
+         <value>div._ak72._ak73._ak7p > div._ak8l > div._ak8o > div._ak8q</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d95c9d2d-b936-4083-9f07-8b52f7dddc5f</webElementGuid>
+      <webElementGuid>fa0563df-d7cd-4d1a-99ba-4d7c676e6659</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>_ak8q</value>
-      <webElementGuid>a6c38d06-4618-4831-a645-8018031ca485</webElementGuid>
+      <webElementGuid>ff0743e8-63dd-42b8-aa67-5a178ecaf0e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ozaru One</value>
-      <webElementGuid>c843688d-d72c-4765-a3e5-347cd62f1ffe</webElementGuid>
+      <webElementGuid>2cb0e211-87ab-4cf7-bfda-4bd570a070c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pane-side&quot;)/div[2]/div[1]/div[@class=&quot;x1y332i5 x1n2onr6 x6ikm8r x10wlt62&quot;]/div[@class=&quot;x10l6tqk xh8yej3 x1g42fcv&quot;]/div[@class=&quot;x1n2onr6&quot;]/div[1]/div[@class=&quot;_ak72 _ak73 _ak7p&quot;]/div[@class=&quot;_ak8l&quot;]/div[@class=&quot;_ak8o&quot;]/div[@class=&quot;_ak8q&quot;]</value>
-      <webElementGuid>49311f6d-8fe6-42c2-ac7b-b1e4bb34c710</webElementGuid>
+      <webElementGuid>ef42f90a-0c3f-41dc-b2c6-f92b4d4ee749</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='pane-side']/div[2]/div/div/div/div/div/div/div[2]/div/div</value>
-      <webElementGuid>e66883e1-6de9-43a3-ad01-59a941709768</webElementGuid>
+      <webElementGuid>ec144ae6-2b74-4f32-9ea6-f0658dfae757</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Archivados'])[1]/following::div[17]</value>
-      <webElementGuid>9880c75a-8f37-4d87-8439-4bec900507de</webElementGuid>
+      <webElementGuid>59c02812-b3da-4e04-a91a-9cfdc82548aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Grupos'])[1]/following::div[25]</value>
-      <webElementGuid>4dc39782-9b90-4967-9006-e2de7bed46f6</webElementGuid>
+      <webElementGuid>c7a9a44f-eb97-49fa-aa56-8ee51c44c35d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ayer'])[1]/preceding::div[2]</value>
-      <webElementGuid>d371b8dc-596f-41ca-ad15-48bcc52e4133</webElementGuid>
+      <webElementGuid>b7343466-19a5-4837-be11-fd5b60842358</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/div/div/div/div/div/div[2]/div/div</value>
-      <webElementGuid>79f5f698-d1f2-4bff-8f7d-634d0146e1ac</webElementGuid>
+      <webElementGuid>20fc40e0-a82f-41f5-b6f8-c1a4d237de53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Ozaru One' or . = 'Ozaru One')]</value>
-      <webElementGuid>f13c08e5-bb1b-4d53-b392-8802d96bf7c8</webElementGuid>
+      <webElementGuid>db57213a-11f4-4fb5-b775-57059085f186</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
