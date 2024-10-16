@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Span_test2</name>
+   <name>Kickoff</name>
    <tag></tag>
-   <elementGuidId>0215ceb6-138a-44ac-a377-1dfb9d32c5e1</elementGuidId>
+   <elementGuidId>98c467b7-b877-479a-90d4-2918a0a45264</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[contains(.,'Test2')]</value>
+         <value>(//mat-label[contains(.,'Execution day')])[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

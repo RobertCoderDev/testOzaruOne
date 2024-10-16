@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Span_test2</name>
+   <name>CheckBox_Status_Sentiment</name>
    <tag></tag>
-   <elementGuidId>0215ceb6-138a-44ac-a377-1dfb9d32c5e1</elementGuidId>
+   <elementGuidId>86e56e25-bb79-4f27-be00-46837dfe78cd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>(//input[contains(@type,'checkbox')])[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//span[contains(.,'Test2')]</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

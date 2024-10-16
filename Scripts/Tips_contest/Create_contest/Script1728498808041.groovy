@@ -29,31 +29,47 @@ WebUI.setText(findTestObject('Page_OzaruOne/input_Verification Code_user-code'),
 
 WebUI.click(findTestObject('Page_OzaruOne/button_Verify'))
 
-WebUI.click(findTestObject('Page_OzaruOne/span_Task Manager'))
+WebUI.click(findTestObject('Fast_survey/Span_automation'))
 
-WebUI.click(findTestObject('Page_OzaruOne/span_Branches'))
+WebUI.click(findTestObject('Contest/Span_Tips_contest'))
 
-WebUI.click(findTestObject('Page_OzaruOne/Newbranch'))
+WebUI.click(findTestObject('Contest/Button_New_contest'))
 
-WebUI.setText(findTestObject('Page_OzaruOne/input_name'), 'test2')
+WebUI.setText(findTestObject('Contest/Input_contest'), 'Test')
 
-WebUI.setText(findTestObject('Page_OzaruOne/input_location'), 'la piedad,mich')
+WebUI.setText(findTestObject('Contest/input_message'), 'Este es un test para comprobar funcionalidad, que opinas ')
 
-WebUI.scrollToElement(findTestObject('Page_OzaruOne/reference'), 0)
+WebUI.setText(findTestObject('Contest/input_description'), 'Este es un test para comprobar funcionalidad, que opinas ')
 
-WebUI.setText(findTestObject('Page_OzaruOne/time_zone'), 'America/Monterrey')
+WebUI.click(findTestObject('Contest/Branch'))
 
-WebUI.setText(findTestObject('Page_OzaruOne/opening_time'), '08:11am')
+WebUI.click(findTestObject('Contest/select_branch'))
 
-WebUI.setText(findTestObject('Page_OzaruOne/closing_time'), '16:00')
+WebUI.click(findTestObject('Contest/Click_screen'))
 
-WebUI.scrollToElement(findTestObject('Page_OzaruOne/add_branche'), 0)
+WebUI.click(findTestObject('Contest/Kickoff'))
 
-WebUI.delay(2)
+WebUI.click(findTestObject('Contest/Kickoff_day'))
 
-WebUI.click(findTestObject('Page_OzaruOne/add_branche'), FailureHandling.STOP_ON_FAILURE)
+WebUI.setText(findTestObject('Contest/KickOff_time'), '12:00am')
 
-WebUI.delay(2)
+WebUI.uploadFile(findTestObject('Contest/FileUploadInput'), 'C:\\Users\\arzat\\OneDrive\\Escritorio\\Brains\\test.jpg')
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Contest/Closure'))
+
+WebUI.click(findTestObject('Contest/Closure_day'))
+
+WebUI.setText(findTestObject('Contest/Closure_time'), '12:10am')
+
+WebUI.uploadFile(findTestObject('Contest/FileUploadInput_closure'), 'C:\\Users\\arzat\\OneDrive\\Escritorio\\Brains\\test.jpg')
+
+WebUI.click(findTestObject('Contest/Awards'))
+
+WebUI.click(findTestObject('Contest/Awards_day'))
+
+WebUI.setText(findTestObject('Contest/Awards_time'), '12:20am')
+
+WebUI.uploadFile(findTestObject('Contest/FileUploadInput_awards'), 'C:\\Users\\arzat\\OneDrive\\Escritorio\\Brains\\test.jpg')
+
+WebUI.click(findTestObject('Contest/Button_submit'))
 

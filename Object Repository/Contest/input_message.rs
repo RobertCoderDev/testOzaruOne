@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Span_test2</name>
+   <name>input_message</name>
    <tag></tag>
-   <elementGuidId>0215ceb6-138a-44ac-a377-1dfb9d32c5e1</elementGuidId>
+   <elementGuidId>c2e619fc-924a-474a-8256-434f8778df48</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[contains(.,'Test2')]</value>
+         <value>//input[contains(@id,'message')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

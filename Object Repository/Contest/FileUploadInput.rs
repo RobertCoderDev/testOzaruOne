@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Span_test2</name>
+   <name>FileUploadInput</name>
    <tag></tag>
-   <elementGuidId>0215ceb6-138a-44ac-a377-1dfb9d32c5e1</elementGuidId>
+   <elementGuidId>369473dd-b3a9-495d-be6d-35276c59fefe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[contains(.,'Test2')]</value>
+         <value>//input[@type='file']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

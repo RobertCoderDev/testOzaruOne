@@ -21,11 +21,11 @@ WebUI.openBrowser('https://console.ozaru.one/#/login')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Page_OzaruOne/input_Email'), 'misa73@hotmail.com')
+WebUI.setText(findTestObject('Page_OzaruOne/input_Email'), 'test@gmail.com')
 
 WebUI.click(findTestObject('Page_OzaruOne/button_Send Verification Code'))
 
-WebUI.setText(findTestObject('Page_OzaruOne/input_Verification Code_user-code'), '5213524444444')
+WebUI.setText(findTestObject('Page_OzaruOne/input_Verification Code_user-code'), '5213511234567')
 
 WebUI.click(findTestObject('Page_OzaruOne/button_Verify'))
 
@@ -143,7 +143,7 @@ WebUI.setText(findTestObject('Page_OzaruOne/input_Email_email'), 'Misael@hola.co
 
 WebUI.setText(findTestObject('Page_OzaruOne/input_Country Code_country_code'), '+521')
 
-WebUI.setText(findTestObject('Page_OzaruOne/input_WhatsApp_whatsapp'), '3511234567')
+WebUI.setText(findTestObject('Page_OzaruOne/input_WhatsApp_whatsapp'), '3511234589')
 
 WebUI.click(findTestObject('Page_OzaruOne/button_Submit'))
 

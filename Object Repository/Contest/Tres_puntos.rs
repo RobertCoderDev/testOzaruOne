@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Span_test2</name>
+   <name>Tres_puntos</name>
    <tag></tag>
-   <elementGuidId>0215ceb6-138a-44ac-a377-1dfb9d32c5e1</elementGuidId>
+   <elementGuidId>1b07f92a-940b-461a-b1f7-86452ed4c2e3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[contains(.,'Test2')]</value>
+         <value>(//div[contains(.,'⋮')])[17]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

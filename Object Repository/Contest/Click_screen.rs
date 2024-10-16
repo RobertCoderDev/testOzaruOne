@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Span_test2</name>
+   <name>Click_screen</name>
    <tag></tag>
-   <elementGuidId>0215ceb6-138a-44ac-a377-1dfb9d32c5e1</elementGuidId>
+   <elementGuidId>ea3b0f4c-3392-435a-91d0-9b65e8c19d5e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[contains(.,'Test2')]</value>
+         <value>//div[contains(@class,'cdk-overlay-backdrop cdk-overlay-transparent-backdrop cdk-overlay-backdrop-showing')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

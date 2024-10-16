@@ -16,6 +16,9 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.openqa.selenium.WebElement as WebElement
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
+import org.openqa.selenium.JavascriptExecutor as JavascriptExecutor
 
 WebUI.openBrowser('https://console.ozaru.one/#/login')
 
@@ -29,31 +32,39 @@ WebUI.setText(findTestObject('Page_OzaruOne/input_Verification Code_user-code'),
 
 WebUI.click(findTestObject('Page_OzaruOne/button_Verify'))
 
-WebUI.click(findTestObject('Page_OzaruOne/span_Task Manager'))
+WebUI.click(findTestObject('Messages/Span_messages'))
 
-WebUI.click(findTestObject('Page_OzaruOne/span_Branches'))
+WebUI.click(findTestObject('Messages/Span_sendMessages'))
 
-WebUI.click(findTestObject('Page_OzaruOne/Newbranch'))
+WebUI.click(findTestObject('Messages/span_Options_mat-mdc-select-placeholder mat-mdc-select-min-line'))
 
-WebUI.setText(findTestObject('Page_OzaruOne/input_name'), 'test2')
+WebUI.click(findTestObject('Messages/span_Branch'))
 
-WebUI.setText(findTestObject('Page_OzaruOne/input_location'), 'la piedad,mich')
+WebUI.click(findTestObject('Messages/Span_Branches'))
 
-WebUI.scrollToElement(findTestObject('Page_OzaruOne/reference'), 0)
+WebUI.click(findTestObject('Messages/Span_test2'))
 
-WebUI.setText(findTestObject('Page_OzaruOne/time_zone'), 'America/Monterrey')
+WebUI.click(findTestObject('Messages/mat-label-OperationalRoles'))
 
-WebUI.setText(findTestObject('Page_OzaruOne/opening_time'), '08:11am')
+WebUI.click(findTestObject('Messages/Span_testing'))
 
-WebUI.setText(findTestObject('Page_OzaruOne/closing_time'), '16:00')
+WebUI.click(findTestObject('Messages/mat-label-employees'))
 
-WebUI.scrollToElement(findTestObject('Page_OzaruOne/add_branche'), 0)
+WebUI.click(findTestObject('Messages/mat-option-everyone'))
 
-WebUI.delay(2)
+WebUI.click(findTestObject('Messages/mat-label-massage-type'))
 
-WebUI.click(findTestObject('Page_OzaruOne/add_branche'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Survey/mat-option-survey'))
 
-WebUI.delay(2)
+WebUI.uploadFile(findTestObject('Page_OzaruOne/FileUploadInput'), 'C:\\Users\\arzat\\OneDrive\\Escritorio\\Brains\\test.jpg')
 
-WebUI.closeBrowser()
+WebUI.scrollToElement(findTestObject('Messages/mat-label-massage-type'), 30)
+
+WebUI.setText(findTestObject('Survey/Input_title'), 'Hola')
+
+WebUI.setText(findTestObject('Survey/Input_Descripcion'), 'Buenas tardes')
+
+WebUI.setText(findTestObject('Survey/input_question'), 'Este sera un test?')
+
+WebUI.click(findTestObject('Messages/Button_sendMessage'))
 

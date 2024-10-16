@@ -16,9 +16,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import org.openqa.selenium.WebElement as WebElement
-import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
-import org.openqa.selenium.JavascriptExecutor as JavascriptExecutor
 
 WebUI.openBrowser('https://console.ozaru.one/#/login')
 
@@ -34,37 +31,9 @@ WebUI.click(findTestObject('Page_OzaruOne/button_Verify'))
 
 WebUI.click(findTestObject('Messages/Span_messages'))
 
-WebUI.click(findTestObject('Messages/Span_sendMessages'))
+WebUI.click(findTestObject('Survey/span_survey_result'))
 
-WebUI.click(findTestObject('Messages/span_Options_mat-mdc-select-placeholder mat-mdc-select-min-line'))
+WebUI.click(findTestObject('Survey/div_tres_puntos'))
 
-WebUI.click(findTestObject('Messages/span_Branch'))
-
-WebUI.click(findTestObject('Messages/Span_Branches'))
-
-WebUI.click(findTestObject('Messages/Span_test2'))
-
-WebUI.click(findTestObject('Messages/mat-label-OperationalRoles'))
-
-WebUI.click(findTestObject('Messages/Span_testing'))
-
-WebUI.click(findTestObject('Messages/mat-label-employees'))
-
-WebUI.click(findTestObject('Messages/mat-option-everyone'))
-
-WebUI.click(findTestObject('Messages/mat-label-massage-type'))
-
-WebUI.click(findTestObject('Survey/mat-option-survey'))
-
-WebUI.uploadFile(findTestObject('Page_OzaruOne/FileUploadInput'), 'C:\\Users\\arzat\\OneDrive\\Escritorio\\Brains\\test.jpg')
-
-WebUI.scrollToElement(findTestObject('Messages/mat-label-massage-type'), 30)
-
-WebUI.setText(findTestObject('Survey/Input_title'), 'vvv')
-
-WebUI.setText(findTestObject('Survey/Input_Descripcion'), 'jfnn')
-
-WebUI.setText(findTestObject('Survey/input_question'), 'dv')
-
-WebUI.click(findTestObject('Messages/Button_sendMessage'))
+WebUI.click(findTestObject('Survey/span_delete_survey_response'))
 

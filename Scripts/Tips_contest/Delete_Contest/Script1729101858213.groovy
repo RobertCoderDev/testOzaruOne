@@ -17,33 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://ozaru.myscriptcase.com/scriptcase9/app/OzaruOne/menu_admin/')
+WebUI.openBrowser('https://console.ozaru.one/#/login')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Create_User/span_Usuarios'))
+WebUI.setText(findTestObject('Page_OzaruOne/input_Email'), 'misa73@hotmail.com')
 
-WebUI.delay(3)
+WebUI.click(findTestObject('Page_OzaruOne/button_Send Verification Code'))
 
-WebUI.click(findTestObject('Create_User/a_Nuevo Director'))
+WebUI.setText(findTestObject('Page_OzaruOne/input_Verification Code_user-code'), '5213524444444')
 
-WebUI.delay(3)
+WebUI.click(findTestObject('Page_OzaruOne/button_Verify'))
 
-WebUI.switchToFrame(findTestObject('Create_User/iframe_OzaruNewUser'), 10)
+WebUI.click(findTestObject('Fast_survey/Span_automation'))
 
-WebUI.setText(findTestObject('Create_User/input_name'), 'Test')
+WebUI.click(findTestObject('Contest/Span_Tips_contest'))
 
-WebUI.setText(findTestObject('Create_User/input_correo'), 'test@gmail.com')
+WebUI.click(findTestObject('Contest/Tres_puntos'))
 
-WebUI.setText(findTestObject('Create_User/input_whatsapp'), '3511234567')
-
-WebUI.click(findTestObject('Create_User/ComboBox'))
-
-WebUI.click(findTestObject('Create_User/input_asignarEmpresa'))
-
-WebUI.click(findTestObject('Create_User/Button_CrearDirector'))
-
-WebUI.delay(3)
-
-WebUI.switchToDefaultContent()
+WebUI.click(findTestObject('Contest/Button_delete'))
 

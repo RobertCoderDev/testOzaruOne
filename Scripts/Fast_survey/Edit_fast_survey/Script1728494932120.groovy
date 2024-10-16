@@ -29,31 +29,43 @@ WebUI.setText(findTestObject('Page_OzaruOne/input_Verification Code_user-code'),
 
 WebUI.click(findTestObject('Page_OzaruOne/button_Verify'))
 
-WebUI.click(findTestObject('Page_OzaruOne/span_Task Manager'))
+WebUI.click(findTestObject('Fast_survey/Span_automation'))
 
-WebUI.click(findTestObject('Page_OzaruOne/span_Branches'))
-
-WebUI.click(findTestObject('Page_OzaruOne/Newbranch'))
-
-WebUI.setText(findTestObject('Page_OzaruOne/input_name'), 'test2')
-
-WebUI.setText(findTestObject('Page_OzaruOne/input_location'), 'la piedad,mich')
-
-WebUI.scrollToElement(findTestObject('Page_OzaruOne/reference'), 0)
-
-WebUI.setText(findTestObject('Page_OzaruOne/time_zone'), 'America/Monterrey')
-
-WebUI.setText(findTestObject('Page_OzaruOne/opening_time'), '08:11am')
-
-WebUI.setText(findTestObject('Page_OzaruOne/closing_time'), '16:00')
-
-WebUI.scrollToElement(findTestObject('Page_OzaruOne/add_branche'), 0)
+WebUI.click(findTestObject('Fast_survey/Span_fast_surveys'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Page_OzaruOne/add_branche'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Fast_survey/Select_day_Sentiment'))
 
-WebUI.delay(2)
+WebUI.click(findTestObject('Fast_survey/mat_option day'))
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Fast_survey/CheckBox_Status_Sentiment'))
+
+WebUI.click(findTestObject('Fast_survey/CheckBox_Status_Sentiment'))
+
+WebUI.setText(findTestObject('Fast_survey/task_time_sentiment'), '12:20am')
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Fast_survey/Select_day_Productivity'))
+
+WebUI.click(findTestObject('Fast_survey/mat_option day'))
+
+WebUI.click(findTestObject('Fast_survey/CheckBox_Status_Productivity'))
+
+WebUI.click(findTestObject('Fast_survey/CheckBox_Status_Productivity'))
+
+WebUI.setText(findTestObject('Fast_survey/task_time_Productivity'), '12:20am')
+
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Fast_survey/Select_day_Product'))
+
+WebUI.click(findTestObject('Fast_survey/mat_option day'))
+
+WebUI.click(findTestObject('Fast_survey/CheckBox_Status_Product'))
+
+WebUI.click(findTestObject('Fast_survey/CheckBox_Status_Product'))
+
+WebUI.setText(findTestObject('Fast_survey/task_time_Product'), '12:20am')
 

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Span_test2</name>
+   <name>Awards_day</name>
    <tag></tag>
-   <elementGuidId>0215ceb6-138a-44ac-a377-1dfb9d32c5e1</elementGuidId>
+   <elementGuidId>5ecac976-9a04-40d3-9b08-501a7eff2f7c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[contains(.,'Test2')]</value>
+         <value>//span[@class='mdc-list-item__primary-text'][contains(.,'Saturday')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
